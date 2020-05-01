@@ -1,0 +1,7025 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+	
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html id="XF" lang="vi-VN" dir="LTR"
+	  style="font-size: 62.5%;"
+	  data-app="public"
+	  data-template="forum_list"
+	  data-container-key=""
+	  data-content-key=""
+	  data-logged-in="false"
+	  data-cookie-prefix="xf_"
+	  data-csrf="1588352444,699bf6328527a5e7722bd1506ca38a9d"
+	  class="has-no-js template-forum_list  uix_page--fixed uix_hasWelcomeSection uix_hasSectionLinks  uix_hasPageAction"
+	  >
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+		
+
+		
+	<title>ZONE DARK ASIA | Diễn Đàn CNTT VN</title>
+
+
+		
+			
+		<meta name="description" content="Diễn đàn ZONEDARK.ASIA là diễn đàn công nghệ thông tin dành cho mọi người có đam mê với CNTT, là nơi hỗ trợ, mua bán, chia sẽ chất xám..." />
+		<meta property="og:description" content="Diễn đàn ZONEDARK.ASIA là diễn đàn công nghệ thông tin dành cho mọi người có đam mê với CNTT, là nơi hỗ trợ, mua bán, chia sẽ chất xám của bản thân" />
+		<meta property="twitter:description" content="Diễn đàn ZONEDARK.ASIA là diễn đàn công nghệ thông tin dành cho mọi người có đam mê với CNTT, là nơi hỗ trợ, mua bán, chia sẽ chất xám của bản thân" />
+	
+		
+			<link rel="canonical" href="http://zonedark.asia/" />
+		
+			<link rel="alternate" type="application/rss+xml" title="RSS feed for ZONE DARK ASIA | Diễn Đàn CNTT VN" href="/forums/-/index.rss" />
+		
+
+		
+			
+	
+	
+	<meta property="og:site_name" content="ZONE DARK ASIA | Diễn Đàn CNTT VN" />
+
+
+		
+		
+			
+	
+	
+	<meta property="og:type" content="website" />
+
+
+		
+		
+			
+	
+	
+	
+		<meta property="og:title" content="ZONE DARK ASIA | Diễn Đàn CNTT VN" />
+		<meta property="twitter:title" content="ZONE DARK ASIA | Diễn Đàn CNTT VN" />
+	
+
+
+		
+		
+		
+			
+	
+	
+	<meta property="og:url" content="http://zonedark.asia/" />
+
+
+		
+		
+
+		
+
+		
+	
+
+	
+
+
+	<link rel="preload" href="/styles/fonts/fa/fa-regular-400.woff2?_v=5.12.1" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+	<link rel="preload" href="/styles/fonts/fa/fa-solid-900.woff2?_v=5.12.1" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+<link rel="preload" href="/styles/fonts/fa/fa-brands-400.woff2?_v=5.12.1" as="font" type="font/woff2" crossorigin="anonymous" />
+
+	
+		
+	
+
+	<link rel="stylesheet" href="/css.php?css=public%3Anormalize.css%2Cpublic%3Acore.less%2Cpublic%3Aapp.less%2Cpublic%3Axenith.less&amp;s=3&amp;l=2&amp;d=1588322745&amp;k=907995a8b4a5e8f86d327953fcef98d5e0dda432" />
+
+	
+		
+			<link rel="stylesheet" href="/styles/xenith/fonts/icons/material-icons/css/materialdesignicons.min.css" />	
+		
+	
+	
+	<link rel="stylesheet" href="/css.php?css=public%3Abrms_modern_statistic.less%2Cpublic%3Anode_list.less%2Cpublic%3Anotices.less%2Cpublic%3Ashare_controls.less%2Cpublic%3Auix_socialMedia.less%2Cpublic%3Auix_welcomeSection.less%2Cpublic%3Aextra.less&amp;s=3&amp;l=2&amp;d=1588322745&amp;k=785f91f10a2b2cf602dd09e17f33b36efe1f032a" />
+
+	
+		<link href='//fonts.googleapis.com/css?family=PT+Sans+Caption:400,700|Roboto+Slab:300,400,700' rel='stylesheet' type='text/css'>
+	
+	
+		<script src="/js/xf/preamble.min.js?_v=5742074c"></script>
+	
+	
+	<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+		
+		
+		
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164839188-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-164839188-1', {
+			// 
+			
+			
+				'anonymize_ip': true,
+			
+		});
+	</script>
+
+
+		
+
+		
+
+	</head>
+
+	<body data-template="forum_list">
+		<style>
+	.uix_headerContainer .p-navSticky.is-sticky {
+		top: 0 !important;
+	}
+
+	
+
+	
+	
+
+	
+	
+	
+		
+			
+			
+		
+	
+
+	
+
+	
+
+		
+		
+		.uix_mainTabBar {top: 56px !important;}
+		.uix_stickyBodyElement:not(.offCanvasMenu) {
+			top: 76px !important;
+			min-height: calc(100vh - 76px) !important;
+		}
+		.uix_sidebarInner .uix_sidebar--scroller {margin-top: 76px;}
+		.uix_sidebarInner {margin-top: -76px;}
+		.p-body-sideNavInner .uix_sidebar--scroller {margin-top: 76px;}
+		.p-body-sideNavInner {margin-top: -76px;}
+		.uix_stickyCategoryStrips {top: 76px !important;}
+		#XF .u-anchorTarget {
+			height: 76px;
+			margin-top: -76px;
+		}
+	
+		
+
+		
+			@media (max-width: 900px) {
+		
+				.p-sectionLinks {display: none;}
+
+				
+
+				.uix_mainTabBar {top: 56px !important;}
+				.uix_stickyBodyElement:not(.offCanvasMenu) {
+					top: 76px !important;
+					min-height: calc(100vh - 76px) !important;
+				}
+				.uix_sidebarInner .uix_sidebar--scroller {margin-top: 76px;}
+				.uix_sidebarInner {margin-top: -76px;}
+				.p-body-sideNavInner .uix_sidebar--scroller {margin-top: 76px;}
+				.p-body-sideNavInner {margin-top: -76px;}
+				.uix_stickyCategoryStrips {top: 76px !important;}
+				#XF .u-anchorTarget {
+					height: 76px;
+					margin-top: -76px;
+				}
+
+				
+		
+			}
+		
+	
+
+	.uix_sidebarNav .uix_sidebar--scroller {max-height: calc(100vh - 76px);}
+	
+	
+</style>
+
+
+
+
+		<div id="jumpToTop"></div>
+
+		
+
+		<div class="uix_pageWrapper--fixed">
+			<div class="p-pageWrapper" id="top">
+
+				<div class="uix_headerContainer">
+					<div class="uix_headerContainer--stickyFix"></div>
+					
+	
+	
+
+
+
+					
+
+					
+
+					
+						
+						
+							<header class="p-header" id="header">
+								<div class="p-header-inner">
+									
+						
+							<div class="p-header-content">
+								
+									
+										
+	
+	<div class="p-header-logo p-header-logo--image">
+		<a class="uix_logo" href="http://zonedark.asia/">
+			
+				<div class="uix_logo--text">ZONEDARK.ASIA</div>
+			
+		</a>
+		
+	</div>
+
+
+									
+
+									
+								
+							</div>
+						
+					
+								</div>
+							</header>
+						
+					
+					
+
+					
+					
+					
+
+					
+						<div class="p-navSticky p-navSticky--primary uix_stickyBar" data-top-offset-breakpoints="
+						[
+							{
+								&quot;breakpoint&quot;: &quot;0&quot;,
+								&quot;offset&quot;: &quot;0&quot;
+							}
+							
+							
+						]
+					">
+							
+						<nav class="p-nav">
+							<div class="p-nav-inner">
+								
+									
+									
+										
+										
+									<a class="p-nav-menuTrigger  badgeContainer" data-badge="0" data-xf-click="off-canvas" data-menu=".js-headerOffCanvasMenu" role="button" tabindex="0">
+										<i aria-hidden="true"></i>
+										<span class="p-nav-menuText">Trình đơn</span>
+									</a>
+									
+								
+
+								
+	
+	<div class="p-header-logo p-header-logo--image">
+		<a class="uix_logo" href="http://zonedark.asia/">
+			
+				<div class="uix_logo--text">ZONEDARK.ASIA</div>
+			
+		</a>
+		
+	</div>
+
+
+
+								
+									
+										<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+											<div class="hScroller-scroll">
+												<ul class="p-nav-list js-offCanvasNavSource">
+													
+														<li>
+															
+	<div class="p-navEl u-ripple " >
+		
+			
+				
+	
+	<a href="http://zonedark.asia/"
+			class="p-navEl-link  "
+			
+			data-xf-key="1"
+			data-nav-id="home"><span>Home</span></a>
+
+				
+				
+			
+			
+			
+		
+			
+	
+</div>
+
+														</li>
+													
+														<li>
+															
+	<div class="p-navEl u-ripple is-selected" data-has-children="true">
+		
+			
+				
+	
+	<a href="/"
+			class="p-navEl-link p-navEl-link--splitMenu "
+			
+			
+			data-nav-id="forums"><span>Trang nhất</span></a>
+
+				
+					<a data-xf-key="2"
+					   data-xf-click="menu"
+					   data-menu-pos-ref="< .p-navEl"
+					   class="p-navEl-splitTrigger"
+					   role="button"
+					   tabindex="0"
+					   aria-label="Toggle expanded"
+					   aria-expanded="false"
+					   aria-haspopup="true">
+					</a>
+				
+				
+			
+				
+					<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+						<div class="menu-content">
+							
+								
+	
+	
+	<a href="/whats-new/posts/"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			
+			
+			data-nav-id="newPosts"><span>Bài mới</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/search/?type=post"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			
+			
+			data-nav-id="searchForums"><span>Tìm trong diễn đàn</span></a>
+
+	
+
+							
+						</div>
+					</div>
+				
+			
+			
+			
+		
+			
+	
+</div>
+
+														</li>
+													
+														<li>
+															
+	<div class="p-navEl u-ripple " data-has-children="true">
+		
+			
+				
+	
+	<a href="/whats-new/"
+			class="p-navEl-link p-navEl-link--splitMenu "
+			
+			
+			data-nav-id="whatsNew"><span>Có gì mới</span></a>
+
+				
+					<a data-xf-key="3"
+					   data-xf-click="menu"
+					   data-menu-pos-ref="< .p-navEl"
+					   class="p-navEl-splitTrigger"
+					   role="button"
+					   tabindex="0"
+					   aria-label="Toggle expanded"
+					   aria-expanded="false"
+					   aria-haspopup="true">
+					</a>
+				
+				
+			
+				
+					<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+						<div class="menu-content">
+							
+								
+	
+	
+	<a href="/whats-new/posts/"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			 rel="nofollow"
+			
+			data-nav-id="whatsNewPosts"><span>Bài mới</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/whats-new/resources/"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			 rel="nofollow"
+			
+			data-nav-id="xfrmNewResources"><span>Tài nguyên mới</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/whats-new/profile-posts/"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			 rel="nofollow"
+			
+			data-nav-id="whatsNewProfilePosts"><span>Bài viết mới trong hồ sơ</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/whats-new/latest-activity"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			 rel="nofollow"
+			
+			data-nav-id="latestActivity"><span>Hoạt động gần đây</span></a>
+
+	
+
+							
+						</div>
+					</div>
+				
+			
+			
+			
+		
+			
+	
+</div>
+
+														</li>
+													
+														<li>
+															
+	<div class="p-navEl u-ripple " data-has-children="true">
+		
+			
+				
+	
+	<a href="/resources/"
+			class="p-navEl-link p-navEl-link--splitMenu "
+			
+			
+			data-nav-id="xfrm"><span>Tài Nguyên</span></a>
+
+				
+					<a data-xf-key="4"
+					   data-xf-click="menu"
+					   data-menu-pos-ref="< .p-navEl"
+					   class="p-navEl-splitTrigger"
+					   role="button"
+					   tabindex="0"
+					   aria-label="Toggle expanded"
+					   aria-expanded="false"
+					   aria-haspopup="true">
+					</a>
+				
+				
+			
+				
+					<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+						<div class="menu-content">
+							
+								
+	
+	
+	<a href="/resources/latest-reviews"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			
+			
+			data-nav-id="xfrmLatestReviews"><span>Đánh giá</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/search/?type=resource"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			
+			
+			data-nav-id="xfrmSearchResources"><span>Tìm kiếm</span></a>
+
+	
+
+							
+						</div>
+					</div>
+				
+			
+			
+			
+		
+			
+	
+</div>
+
+														</li>
+													
+														<li>
+															
+	<div class="p-navEl u-ripple " data-has-children="true">
+		
+			
+				
+	
+	<a href="/members/"
+			class="p-navEl-link p-navEl-link--splitMenu "
+			
+			
+			data-nav-id="members"><span>Thành viên</span></a>
+
+				
+					<a data-xf-key="5"
+					   data-xf-click="menu"
+					   data-menu-pos-ref="< .p-navEl"
+					   class="p-navEl-splitTrigger"
+					   role="button"
+					   tabindex="0"
+					   aria-label="Toggle expanded"
+					   aria-expanded="false"
+					   aria-haspopup="true">
+					</a>
+				
+				
+			
+				
+					<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+						<div class="menu-content">
+							
+								
+	
+	
+	<a href="/members/list/"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			
+			
+			data-nav-id="registeredMembers"><span>Thành viên đã đăng ký</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/online/"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			
+			
+			data-nav-id="currentVisitors"><span>Người đang truy cập</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/whats-new/profile-posts/"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			 rel="nofollow"
+			
+			data-nav-id="newProfilePosts"><span>Bài viết mới trong hồ sơ</span></a>
+
+	
+
+							
+								
+	
+	
+	<a href="/search/?type=profile_post"
+			class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+			
+			
+			data-nav-id="searchProfilePosts"><span>Tìm trong bài viết hồ sơ</span></a>
+
+	
+
+							
+						</div>
+					</div>
+				
+			
+			
+			
+		
+			
+	
+</div>
+
+														</li>
+													
+												</ul>
+											</div>
+										</div>
+									
+
+									
+										<div class="uix_activeNavTitle">
+											<span>
+												
+													Trang nhất
+													
+											</span>
+										</div>
+									
+								
+
+								
+	
+
+
+								
+									<div class="p-nav-opposite">
+										
+											
+		
+			
+				
+					<div class="p-navgroup p-account p-navgroup--guest">
+						
+							
+								
+	
+		
+		
+	
+		
+			<a href="/login/" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--logIn" data-xf-click="menu">
+				<i></i>
+				<span class="p-navgroup-linkText">Đăng nhập</span>
+			</a>
+			<div class="menu menu--structural menu--medium" data-menu="menu" aria-hidden="true" data-href="/login/"></div>
+		
+	
+	
+		
+			<a href="/register/" class="p-navgroup-link u-ripple p-navgroup-link--textual p-navgroup-link--register" data-xf-click="overlay" data-follow-redirects="on">
+				<i></i>
+				<span class="p-navgroup-linkText">Tạo tài khoản</span>
+			</a>
+		
+	
+
+	
+
+							
+						
+					</div>
+				
+				
+					<div class="p-navgroup p-discovery">
+						
+							
+	
+		
+	
+
+							
+	
+		
+		
+			<div class="uix_searchBar">
+				<div class="uix_searchBarInner">
+					<form action="/search/search" method="post" class="uix_searchForm" data-xf-init="quick-search">
+						<a class="uix_search--close">
+							<i class="fa--xf far fa-window-close uix_icon uix_icon--close" aria-hidden="true"></i>
+						</a>
+						<input type="text" class="input js-uix_syncValue uix_searchInput uix_searchDropdown__trigger" autocomplete="off" data-uixsync="search" name="keywords" placeholder="Tìm kiếm…" aria-label="Tìm kiếm" data-menu-autofocus="true" />
+						<a href="/search/"
+						   class="uix_search--settings u-ripple"
+						   data-xf-key="/"
+						   aria-label="Tìm kiếm"
+						   aria-expanded="false"
+						   aria-haspopup="true"
+						   title="Tìm kiếm">
+							<i class="fa--xf far fa-cog uix_icon uix_icon--settings" aria-hidden="true"></i>
+						</a>
+						<span class=" uix_searchIcon">
+							<i class="fa--xf far fa-search uix_icon uix_icon--search" aria-hidden="true"></i>
+						</span>
+						<input type="hidden" name="_xfToken" value="1588352444,699bf6328527a5e7722bd1506ca38a9d" />
+					</form>
+				</div>
+
+				
+					<a class="uix_searchIconTrigger p-navgroup-link p-navgroup-link--iconic p-navgroup-link--search u-ripple"
+					   aria-label="Tìm kiếm"
+					   aria-expanded="false"
+					   aria-haspopup="true"
+					   title="Tìm kiếm">
+						<i aria-hidden="true"></i>
+					</a>
+				
+
+				
+					<a href="/search/"
+					   class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--search u-ripple js-uix_minimalSearch__target"
+					   data-xf-click="menu"
+					   aria-label="Tìm kiếm"
+					   aria-expanded="false"
+					   aria-haspopup="true"
+					   title="Tìm kiếm">
+						<i aria-hidden="true"></i>
+					</a>
+				
+
+				<div class="menu menu--structural menu--wide" data-menu="menu" aria-hidden="true">
+					<form action="/search/search" method="post"
+						  class="menu-content"
+						  data-xf-init="quick-search">
+						<h3 class="menu-header">Tìm kiếm</h3>
+						
+						<div class="menu-row">
+							
+								<input type="text" class="input js-uix_syncValue" name="keywords" data-uixsync="search" placeholder="Tìm kiếm…" aria-label="Tìm kiếm" data-menu-autofocus="true" />
+							
+						</div>
+
+						
+						<div class="menu-row">
+							<label class="iconic"><input type="checkbox"  name="c[title_only]" value="1" /><i aria-hidden="true"></i><span class="iconic-label">Chỉ tìm trong tiêu đề</span></label>
+
+						</div>
+						
+						<div class="menu-row">
+							<div class="inputGroup">
+								<span class="inputGroup-text" id="ctrl_search_menu_by_member">Bởi:</span>
+								<input type="text" class="input" name="c[users]" data-xf-init="auto-complete" placeholder="Thành viên" aria-labelledby="ctrl_search_menu_by_member" />
+							</div>
+						</div>
+						<div class="menu-footer">
+							<span class="menu-footer-controls">
+								<button type="submit" class="button--primary button button--icon button--icon--search"><span class="button-text">Tìm</span></button>
+								<a href="/search/" class="button"><span class="button-text">Tìm nâng cao…</span></a>
+							</span>
+						</div>
+
+						<input type="hidden" name="_xfToken" value="1588352444,699bf6328527a5e7722bd1506ca38a9d" />
+					</form>
+				</div>
+
+
+				<div class="menu menu--structural menu--wide uix_searchDropdown__menu" aria-hidden="true">
+					<form action="/search/search" method="post"
+						  class="menu-content"
+						  data-xf-init="quick-search">
+						
+						
+							<input name="keywords"
+								   class="js-uix_syncValue"
+								   data-uixsync="search"
+								   placeholder="Tìm kiếm…"
+								   aria-label="Tìm kiếm"
+								   type="hidden" />
+						
+
+						
+						<div class="menu-row">
+							<label class="iconic"><input type="checkbox"  name="c[title_only]" value="1" /><i aria-hidden="true"></i><span class="iconic-label">Chỉ tìm trong tiêu đề</span></label>
+
+						</div>
+						
+						<div class="menu-row">
+							<div class="inputGroup">
+								<span class="inputGroup-text">Bởi:</span>
+								<input class="input" name="c[users]" data-xf-init="auto-complete" placeholder="Thành viên" />
+							</div>
+						</div>
+						<div class="menu-footer">
+							<span class="menu-footer-controls">
+								<button type="submit" class="button--primary button button--icon button--icon--search"><span class="button-text">Tìm</span></button>
+								<a href="/search/" class="button" rel="nofollow"><span class="button-text">Advanced…</span></a>
+							</span>
+						</div>
+
+						<input type="hidden" name="_xfToken" value="1588352444,699bf6328527a5e7722bd1506ca38a9d" />
+					</form>
+				</div>
+			</div>
+		
+	
+	
+
+						
+					</div>
+				
+				
+	
+
+			
+		
+	
+											
+	
+		
+	
+		
+			<a class="uix_sidebarTrigger__component uix_sidebarTrigger button" data-xf-init="tooltip" title="Sidebar" rel="nofollow">
+				<i class="fa--xf far fa-ellipsis-v mdi mdi-dots-vertical" aria-hidden="true"></i>
+				<span class="uix_sidebarTrigger--phrase">Sidebar</span>
+			</a>
+		
+		
+			<a class="uix_sidebarCanvasTrigger uix_sidebarTrigger__component p-navgroup-link" data-xf-init="tooltip" title="Sidebar">
+				<i class="fa--xf far fa-ellipsis-v mdi mdi-dots-vertical" aria-hidden="true"></i>
+				<span class="uix_sidebarTrigger--phrase">Sidebar</span>
+			</a>
+		
+	
+
+	
+
+										
+									</div>
+								
+							</div>
+							
+						</nav>
+					
+						</div>
+						
+		
+			<div class="p-sectionLinks">
+				<div class="pageContent">
+					
+						
+							
+								
+								
+								<div class="p-sectionLinks-inner hScroller" data-xf-init="h-scroller">
+									<div class="hScroller-scroll">
+										<ul class="p-sectionLinks-list">
+											
+												<li>
+													
+	<div class="p-navEl u-ripple " >
+		
+			
+				
+	
+	<a href="/whats-new/posts/"
+			class="p-navEl-link  "
+			
+			data-xf-key="alt+1"
+			data-nav-id="newPosts"><span>Bài mới</span></a>
+
+				
+				
+			
+			
+			
+		
+			
+	
+</div>
+
+												</li>
+											
+												<li>
+													
+	<div class="p-navEl u-ripple " >
+		
+			
+				
+	
+	<a href="/search/?type=post"
+			class="p-navEl-link  "
+			
+			data-xf-key="alt+2"
+			data-nav-id="searchForums"><span>Tìm trong diễn đàn</span></a>
+
+				
+				
+			
+			
+			
+		
+			
+	
+</div>
+
+												</li>
+											
+										</ul>
+									</div>
+								</div>
+							
+							
+						
+					
+				</div>
+			</div>
+			
+	
+						
+
+					
+
+					
+	
+		
+			
+
+			<div class="uix_welcomeSection">
+				<div class="uix_welcomeSection__inner">
+
+					<div class="media__container">
+
+						
+
+						<div class="media__body">
+							<div class="uix_welcomeSection__title">Chào Mừng Bạn Truy Cập Diễn Đàn</div>
+
+							<div class="uix_welcomeSection__text">Nếu bạn chưa có tài khoản, vui lòng nhấn vào nút dưới đây để Đăng Ký</div>
+
+							<a href="/register/" class="button--cta button"><span class="button-text">ĐĂNG KÝ NGAY</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+	
+
+					
+	
+
+					
+	
+
+					
+	
+
+					
+				</div>
+
+				
+				<div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation">
+					<div class="offCanvasMenu-backdrop" data-menu-close="true"></div>
+					<div class="offCanvasMenu-content">
+						
+						<div class="sidePanel sidePanel--nav sidePanel--visitor">
+	<div class="sidePanel__tabPanels">
+		
+		<div data-content="navigation" class="is-active sidePanel__tabPanel js-navigationTabPanel">
+			
+							<div class="offCanvasMenu-header">
+								Trình đơn
+								<a class="offCanvasMenu-closer" data-menu-close="true" role="button" tabindex="0" aria-label="Đóng"></a>
+							</div>
+							
+							<div class="js-offCanvasNavTarget"></div>
+							
+							
+						
+		</div>
+		
+		
+		
+	</div>
+</div>
+
+						
+					</div>
+			<div class="uix_xenithSpaceFix"></div>
+				</div>
+			<div class="uix_xenithSpaceFix"></div>
+
+				
+
+				
+	
+		
+	
+		
+			<div class="p-body-header">
+				<div class="pageContent">
+					
+						
+							<div class="uix_headerInner">
+								
+									
+										<div class="p-title ">
+											
+												
+													<h1 class="p-title-value">Lựa chọn chuyên mục</h1>
+												
+											
+										</div>
+									
+
+									
+								
+							</div>
+						
+						
+							<div class="uix_headerInner--opposite">
+								
+									
+										
+									
+									
+	
+		
+	
+		
+			<a class="uix_sidebarTrigger__component uix_sidebarTrigger button" data-xf-init="tooltip" title="Sidebar" rel="nofollow">
+				<i class="fa--xf far fa-ellipsis-v mdi mdi-dots-vertical" aria-hidden="true"></i>
+				<span class="uix_sidebarTrigger--phrase">Sidebar</span>
+			</a>
+		
+		
+			<a class="uix_sidebarCanvasTrigger uix_sidebarTrigger__component p-navgroup-link" data-xf-init="tooltip" title="Sidebar">
+				<i class="fa--xf far fa-ellipsis-v mdi mdi-dots-vertical" aria-hidden="true"></i>
+				<span class="uix_sidebarTrigger--phrase">Sidebar</span>
+			</a>
+		
+	
+
+	
+
+								
+							</div>
+						
+					
+				</div>
+			</div>
+		
+	
+
+	
+
+
+				<div class="p-body">
+
+					
+
+					<div class="p-body-inner ">
+						
+						<!--XF:EXTRA_OUTPUT-->
+
+						
+	
+		
+	
+		
+			
+	
+		
+		
+		
+
+		<ul class="notices notices--block  js-notices"
+			data-xf-init="notices"
+			data-type="block"
+			data-scroll-interval="6">
+
+			
+				
+	<li class="notice js-notice notice--dark"
+		data-notice-id="1"
+		data-delay-duration="0"
+		data-display-duration="0"
+		data-auto-dismiss="1"
+		data-visibility="">
+		
+		<div class="uix_noticeInner">
+			
+			<div class="uix_noticeIcon">
+				
+					<i class="fa--xf far fa-info-circle mdi mdi-information" aria-hidden="true"></i>
+				
+			</div>
+
+			
+			<div class="notice-content">
+				
+					<a href="/account/dismiss-notice?notice_id=1" class="notice-dismiss js-noticeDismiss" data-xf-init="tooltip" title="Dismiss Notice"></a>
+				
+				Không sử dụng link rút rọn kiếm tiền trên tất cả bài đăng trên dễn đàn, vui lòng sử dụng Up Files kiếm tiền thay thế
+			</div>
+		</div>
+	</li>
+
+			
+		</ul>
+	
+
+		
+
+		
+	
+
+	
+
+
+						
+	
+
+
+						
+	
+		
+	
+
+
+						
+	
+		
+	
+	
+	
+
+	
+
+	
+
+
+						
+	
+
+
+						
+	<noscript><div class="blockMessage blockMessage--important blockMessage--iconic u-noJsOnly">JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.</div></noscript>
+
+						
+	<!--[if lt IE 9]><div class="blockMessage blockMessage&#45;&#45;important blockMessage&#45;&#45;iconic">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</div><![endif]-->
+
+
+						<div uix_component="MainContainer" class="uix_contentWrapper">
+
+							
+	
+
+
+							
+							
+	
+		
+	
+
+							
+	
+
+							
+	
+
+							
+	
+
+
+							<div class="p-body-main p-body-main--withSidebar ">
+
+								
+
+								
+	
+
+								<div uix_component="MainContent" class="p-body-content">
+									<!-- ABOVE MAIN CONTENT -->
+									
+	
+
+									
+	
+
+									
+	
+		
+	
+
+									
+	
+
+									
+	
+
+									<div class="p-body-pageContent">
+										
+	
+
+										
+	
+		
+	
+
+										
+	
+
+										
+	
+
+										
+	
+
+										
+	
+	
+	
+	<div class="BRMSContainer  brmsTopTabs u-clearFix"
+		data-xf-init="brms-container"
+		data-previewType="thread_preview"
+		data-allowCusItemLimit=""
+		data-allowCusLayout="0"
+		data-modernStatisticId="2"
+		data-navPosition="brmsTopTabs"
+		data-useLimit=""
+		data-updateInterval="0">
+		<div class="brmsStatisticHeader u-clearFix">
+			<div class="brmsConfigList">
+				
+				
+				<div class="brmsConfigBtn brmsRefresh"><a href="javascript:;" class="brmsIco brmsIcoRefresh"></a></div>
+				
+				
+			</div>
+			<ul class="brmsTabNav u-clearFix">
+				
+				
+					
+						<li class="brmlShow"><a class="brmsTabHandler_0" href="javascript:;" data-content="brmsTabContent_0" data-tabid="0"><span>MỚI ĐÂY</span></a></li>
+					
+				
+					
+						<li class="brmlShow"><a class="brmsTabHandler_1" href="javascript:;" data-content="brmsTabContent_1" data-tabid="1"><span>BÀI VIẾT MỚI</span></a></li>
+					
+				
+					
+						<li class="brmlShow"><a class="brmsTabHandler_2" href="javascript:;" data-content="brmsTabContent_2" data-tabid="2"><span>SOURCE CODE</span></a></li>
+					
+				
+					
+						<li class="brmlShow"><a class="brmsTabHandler_3" href="javascript:;" data-content="brmsTabContent_3" data-tabid="3"><span>PHẦN MỀM</span></a></li>
+					
+				
+					
+						<li class="brmlShow"><a class="brmsTabHandler_4" href="javascript:;" data-content="brmsTabContent_4" data-tabid="4"><span>Thành viên mới</span></a></li>
+					
+				
+				
+				<li class="brmsTabNavHiddenMenu last">
+					<div class="brmsTabNavHidden brmsDropdownToggle">
+						<a href="javascript:;" class="brmsIco brmsIcoList"></a>
+						<ul class="brmsDropdownMenu">
+							
+								
+									<li class="brmlShow"><a class="brmsTabHandler_0" href="javascript:;" data-content="brmsTabContent_0" data-tabid="0"><span>MỚI ĐÂY</span></a></li>
+								
+							
+								
+									<li class="brmlShow"><a class="brmsTabHandler_1" href="javascript:;" data-content="brmsTabContent_1" data-tabid="1"><span>BÀI VIẾT MỚI</span></a></li>
+								
+							
+								
+									<li class="brmlShow"><a class="brmsTabHandler_2" href="javascript:;" data-content="brmsTabContent_2" data-tabid="2"><span>SOURCE CODE</span></a></li>
+								
+							
+								
+									<li class="brmlShow"><a class="brmsTabHandler_3" href="javascript:;" data-content="brmsTabContent_3" data-tabid="3"><span>PHẦN MỀM</span></a></li>
+								
+							
+								
+									<li class="brmlShow"><a class="brmsTabHandler_4" href="javascript:;" data-content="brmsTabContent_4" data-tabid="4"><span>Thành viên mới</span></a></li>
+								
+							
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>
+
+		
+			
+			<div class="brmsTabContent brmsTabContent_0 u-clearFix" data-content="brmsTabContent_0">
+				
+					
+	<ol class="brmsContentList u-clearFix">
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread first">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_1">
+		<span class="countNumber">1</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/share-api-get-video-tiktok-khong-logo.76/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/share-api-get-video-tiktok-khong-logo.76/preview"> Share API get video Tiktok không logo</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/share-api-get-video-tiktok-khong-logo.76/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T23:47:16+0700" data-time="1588351636" data-date-string="1 Tháng năm 2020" data-time-string="11:47 PM" title="1 Tháng năm 2020 lúc 11:47 PM">13 phút trước</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_2">
+		<span class="countNumber">2</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/share-code-up-files-len-google-drive-va-dropbox.79/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/share-code-up-files-len-google-drive-va-dropbox.79/preview"> Share code Up Files lên Google Drive và Dropbox</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/share-code-up-files-len-google-drive-va-dropbox.79/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T23:31:42+0700" data-time="1588350702" data-date-string="1 Tháng năm 2020" data-time-string="11:31 PM" title="1 Tháng năm 2020 lúc 11:31 PM">29 phút trước</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_3">
+		<span class="countNumber">3</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/ma-nguon-website-nghe-nhac-panel-admin-quan-tri.73/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/ma-nguon-website-nghe-nhac-panel-admin-quan-tri.73/preview"> Mã nguồn website nghe nhạc + panel admin quản trị</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/ma-nguon-website-nghe-nhac-panel-admin-quan-tri.73/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T22:32:13+0700" data-time="1588347133" data-date-string="1 Tháng năm 2020" data-time-string="10:32 PM" title="1 Tháng năm 2020 lúc 10:32 PM">Hôm qua, lúc 10:32 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/khachieuktv.126/" class="username " dir="auto" data-user-id="126" data-xf-init="member-tooltip">khachieuktv</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_4">
+		<span class="countNumber">4</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/share-code-marketing-facebook-cap-nhat-ngay-30-4.87/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/share-code-marketing-facebook-cap-nhat-ngay-30-4.87/preview"> Share code Marketing Facebook (cập nhật ngày 30/4)</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/share-code-marketing-facebook-cap-nhat-ngay-30-4.87/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T22:23:34+0700" data-time="1588346614" data-date-string="1 Tháng năm 2020" data-time-string="10:23 PM" title="1 Tháng năm 2020 lúc 10:23 PM">Hôm qua, lúc 10:23 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/khachieuktv.126/" class="username " dir="auto" data-user-id="126" data-xf-init="member-tooltip">khachieuktv</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_5">
+		<span class="countNumber">5</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/huong-dan-get-link-nhac-mp3-zing-vip-mien-phi.81/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/huong-dan-get-link-nhac-mp3-zing-vip-mien-phi.81/preview"> Hướng dẫn get link nhạc mp3 zing VIP miễn phí</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/huong-dan-get-link-nhac-mp3-zing-vip-mien-phi.81/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T22:13:47+0700" data-time="1588346027" data-date-string="1 Tháng năm 2020" data-time-string="10:13 PM" title="1 Tháng năm 2020 lúc 10:13 PM">Hôm qua, lúc 10:13 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/kitt.28/" class="username " dir="auto" data-user-id="28" data-xf-init="member-tooltip">Kitt</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_6">
+		<span class="countNumber">6</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/code-website-tu-dong-tra-loi-tin-nhan-facebook.86/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/code-website-tu-dong-tra-loi-tin-nhan-facebook.86/preview"> Code website tự động trả lời tin nhắn Facebook</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/code-website-tu-dong-tra-loi-tin-nhan-facebook.86/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T20:20:08+0700" data-time="1588339208" data-date-string="1 Tháng năm 2020" data-time-string="8:20 PM" title="1 Tháng năm 2020 lúc 8:20 PM">Hôm qua, lúc 8:20 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_7">
+		<span class="countNumber">7</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/hoc-lap-trinh.85/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/hoc-lap-trinh.85/preview"> Học lập trình</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/hoc-lap-trinh.85/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T18:04:54+0700" data-time="1588331094" data-date-string="1 Tháng năm 2020" data-time-string="6:04 PM" title="1 Tháng năm 2020 lúc 6:04 PM">Hôm qua, lúc 6:04 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_8">
+		<span class="countNumber">8</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/ramboat-2-mod-menu-cho-android.84/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/ramboat-2-mod-menu-cho-android.84/preview"> Ramboat 2 Mod Menu Cho Android</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/ramboat-2-mod-menu-cho-android.84/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T17:50:30+0700" data-time="1588330230" data-date-string="1 Tháng năm 2020" data-time-string="5:50 PM" title="1 Tháng năm 2020 lúc 5:50 PM">Hôm qua, lúc 5:50 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/knz.19/" class="username " dir="auto" data-user-id="19" data-xf-init="member-tooltip">Knz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread brmsSticky">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_9">
+		<span class="countNumber">9</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/he-thong-leo-rank-tuong-tac-dien-dan-zonedark-asia.65/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/he-thong-leo-rank-tuong-tac-dien-dan-zonedark-asia.65/preview"> Hệ Thống Leo Rank Tương Tác Diễn Đàn ZONEDARK.ASIA</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/he-thong-leo-rank-tuong-tac-dien-dan-zonedark-asia.65/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T17:18:13+0700" data-time="1588328293" data-date-string="1 Tháng năm 2020" data-time-string="5:18 PM" title="1 Tháng năm 2020 lúc 5:18 PM">Hôm qua, lúc 5:18 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_10">
+		<span class="countNumber">10</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/sql-injection-khai-thac-lo-hong-sql-database-cua-website.83/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/sql-injection-khai-thac-lo-hong-sql-database-cua-website.83/preview"> SQL Injection - Khai thác lỗ hỏng SQL Database của Website</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/sql-injection-khai-thac-lo-hong-sql-database-cua-website.83/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T16:29:39+0700" data-time="1588325379" data-date-string="1 Tháng năm 2020" data-time-string="4:29 PM" title="1 Tháng năm 2020 lúc 4:29 PM">Hôm qua, lúc 4:29 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/sitloboi.3/" class="username " dir="auto" data-user-id="3" data-xf-init="member-tooltip">SitLoBoi</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_11">
+		<span class="countNumber">11</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/source-code-game-thiet-ky-tam-quoc.58/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/source-code-game-thiet-ky-tam-quoc.58/preview"> Source code game Thiết Kỵ Tam Quốc</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/source-code-game-thiet-ky-tam-quoc.58/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T16:10:38+0700" data-time="1588324238" data-date-string="1 Tháng năm 2020" data-time-string="4:10 PM" title="1 Tháng năm 2020 lúc 4:10 PM">Hôm qua, lúc 4:10 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_12">
+		<span class="countNumber">12</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/source-code-website-tao-dien-dan-bang-php.82/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/source-code-website-tao-dien-dan-bang-php.82/preview"> Source code website tạo diễn đàn bằng PHP</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/source-code-website-tao-dien-dan-bang-php.82/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T15:57:57+0700" data-time="1588323477" data-date-string="1 Tháng năm 2020" data-time-string="3:57 PM" title="1 Tháng năm 2020 lúc 3:57 PM">Hôm qua, lúc 3:57 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_13">
+		<span class="countNumber">13</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/nhat-ky-update.80/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/nhat-ky-update.80/preview"> Nhật ký Update</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/nhat-ky-update.80/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T14:16:32+0700" data-time="1588317392" data-date-string="1 Tháng năm 2020" data-time-string="2:16 PM" title="1 Tháng năm 2020 lúc 2:16 PM">Hôm qua, lúc 2:16 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">NTThanhz</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_14">
+		<span class="countNumber">14</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/100-accounts-ipvanish-vpn-premium.75/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/100-accounts-ipvanish-vpn-premium.75/preview"> 100 Accounts IPVANISH VPN Premium</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/100-accounts-ipvanish-vpn-premium.75/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T14:07:22+0700" data-time="1588316842" data-date-string="1 Tháng năm 2020" data-time-string="2:07 PM" title="1 Tháng năm 2020 lúc 2:07 PM">Hôm qua, lúc 2:07 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/khanhsvux.22/" class="username " dir="auto" data-user-id="22" data-xf-init="member-tooltip">KhanhsVux</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+			
+			
+	<li class="itemStast BRMSToolTip itemThread">
+		<div class="itemContent">
+			
+	<div class="listBlock counter counter_15">
+		<span class="countNumber">15</span>
+		<span class="arrow"><span></span></span>
+	</div>
+	<div class="listBlock itemTitle">
+		
+		<a href="/threads/hoi-dap.74/" class=""
+			data-tp-primary="on" data-xf-init="preview-tooltip"
+			
+			data-preview-url="/threads/hoi-dap.74/preview"> Hỏi đáp</a>
+	</div>
+
+			
+				<div class="listBlock itemDetail itemDetailDate">
+					<a class="paint" href="/threads/hoi-dap.74/latest" title=""><time  class="u-dt" dir="auto" datetime="2020-05-01T12:41:01+0700" data-time="1588311661" data-date-string="1 Tháng năm 2020" data-time-string="12:41 PM" title="1 Tháng năm 2020 lúc 12:41 PM">Hôm qua, lúc 12:41 PM</time></a>
+				</div>
+				<div class="listBlock itemDetail itemDetailName">
+					<a href="/members/linhkhanhma.27/" class="username " dir="auto" data-user-id="27" data-xf-init="member-tooltip">linhkhanhma</a>
+				</div>
+			
+		</div>
+	</li>
+
+		
+	</ol>
+
+				
+			</div>
+			
+		
+			
+			<div class="brmsTabContent brmsTabContent_1 u-clearFix" data-content="brmsTabContent_1">
+				
+					<div class="brmsIcoLoader brmsIcoRefresh"></div><div class="clear"></div>
+				
+			</div>
+			
+		
+			
+			<div class="brmsTabContent brmsTabContent_2 u-clearFix" data-content="brmsTabContent_2">
+				
+					<div class="brmsIcoLoader brmsIcoRefresh"></div><div class="clear"></div>
+				
+			</div>
+			
+		
+			
+			<div class="brmsTabContent brmsTabContent_3 u-clearFix" data-content="brmsTabContent_3">
+				
+					<div class="brmsIcoLoader brmsIcoRefresh"></div><div class="clear"></div>
+				
+			</div>
+			
+		
+			
+			<div class="brmsTabContent brmsTabContent_4 u-clearFix" data-content="brmsTabContent_4">
+				
+					<div class="brmsIcoLoader brmsIcoRefresh"></div><div class="clear"></div>
+				
+			</div>
+			
+		
+	</div>
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class="uix_nodeList block">
+	
+	
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category1 ">
+		<span class="u-anchorTarget" id="thao-luan-chung.1"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#thao-luan-chung.1" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Thảo Luận Chung</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id2 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tin-tuc.2/" data-xf-init="" data-shortcut="node-description">Tin Tức</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id3 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/thong-bao.3/" data-xf-init="" data-shortcut="node-description">Thông Báo</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>20</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>20</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/he-thong-leo-rank-tuong-tac-dien-dan-zonedark-asia.65/post-137" class="node-extra-title" title="Hệ Thống Leo Rank Tương Tác Diễn Đàn ZONEDARK.ASIA">Hệ Thống Leo Rank Tương Tác Diễn Đàn ZONEDARK.ASIA</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-05-01T17:18:13+0700" data-time="1588328293" data-date-string="1 Tháng năm 2020" data-time-string="5:18 PM" title="1 Tháng năm 2020 lúc 5:18 PM">Hôm qua, lúc 5:18 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">NTThanhz</span></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id4 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/thao-luan.4/" data-xf-init="" data-shortcut="node-description">Thảo Luận</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>1</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>1</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/darkweb.66/post-87" class="node-extra-title" title="DARKWEB">DARKWEB</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-30T22:51:43+0700" data-time="1588261903" data-date-string="30 Tháng tư 2020" data-time-string="10:51 PM" title="30 Tháng tư 2020 lúc 10:51 PM">Thứ năm lúc 10:51 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">NTThanhz</span></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id5 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/gop-y.5/" data-xf-init="" data-shortcut="node-description">Góp Ý</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+	<div class="node node--id52 node--depth2 node--link">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				<h3 class="node-title">
+					 <a href="/link-forums/xep-hang-rank.52/" data-xf-init="" data-shortcut="node-description">Xếp Hạng Rank</a>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+	
+	
+
+					</div>
+				
+
+				
+			</div>
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category6 ">
+		<span class="u-anchorTarget" id="internet-network.6"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#internet-network.6" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Internet &amp; Network</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id7 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tips.7/" data-xf-init="" data-shortcut="node-description">Tips</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>5</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>13</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>5</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>13</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/kitt.28/" class="avatar avatar--xs" data-user-id="28" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/28.jpg?1588253425" srcset="/data/avatars/m/0/28.jpg?1588253425 2x" alt="Kitt" class="avatar-u28-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/huong-dan-get-link-nhac-mp3-zing-vip-mien-phi.81/post-145" class="node-extra-title" title="Hướng dẫn get link nhạc mp3 zing VIP miễn phí">Hướng dẫn get link nhạc mp3 zing VIP miễn phí</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-05-01T22:13:47+0700" data-time="1588346027" data-date-string="1 Tháng năm 2020" data-time-string="10:13 PM" title="1 Tháng năm 2020 lúc 10:13 PM">Hôm qua, lúc 10:13 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/kitt.28/" class="username " dir="auto" data-user-id="28" data-xf-init="member-tooltip">Kitt</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id8 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/an-ninh-mang.8/" data-xf-init="" data-shortcut="node-description">An Ninh Mạng</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>5</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>6</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>5</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>6</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/sitloboi.3/" class="avatar avatar--xs avatar--default avatar--default--dynamic" data-user-id="3" data-xf-init="member-tooltip" style="background-color: #6a1b9a; color: #ea80fc">
+			<span class="avatar-u3-s">S</span> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/sql-injection-khai-thac-lo-hong-sql-database-cua-website.83/post-133" class="node-extra-title" title="SQL Injection - Khai thác lỗ hỏng SQL Database của Website">SQL Injection - Khai thác lỗ hỏng SQL Database của Website</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-05-01T16:29:39+0700" data-time="1588325379" data-date-string="1 Tháng năm 2020" data-time-string="4:29 PM" title="1 Tháng năm 2020 lúc 4:29 PM">Hôm qua, lúc 4:29 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/sitloboi.3/" class="username " dir="auto" data-user-id="3" data-xf-init="member-tooltip">SitLoBoi</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id9 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tan-cong-mang.9/" data-xf-init="" data-shortcut="node-description">Tấn Công Mạng</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>10</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>12</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+		<div class="node-subNodeMenu">
+			<a class="menuTrigger" data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+				<span>Chuyên mục con</span>
+				<i class="fa--xf far fa-folder uix_icon uix_icon--folder" aria-hidden="true"></i>
+			</a>
+			<div class="menu" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<h4 class="menu-header">Chuyên mục con</h4>
+					<ol class="subNodeMenu">
+					
+						
+	
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/tools-sciprts.11/" class="subNodeLink subNodeLink--forum subNodeLink--unread">Tools &amp; Sciprts</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/tips.12/" class="subNodeLink subNodeLink--forum ">Tips</a>
+		
+	
+
+	</li>
+
+	
+
+	
+
+					
+					</ol>
+				</div>
+			</div>
+		</div>
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>10</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>12</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/tools-attack-torshammer.30/post-66" class="node-extra-title" title="Tools Attack Tor&#039;shammer">Tools Attack Tor&#039;shammer</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-30T18:14:14+0700" data-time="1588245254" data-date-string="30 Tháng tư 2020" data-time-string="6:14 PM" title="30 Tháng tư 2020 lúc 6:14 PM">Thứ năm lúc 6:14 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">NTThanhz</span></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id10 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/domains-hosting-vps.10/" data-xf-init="" data-shortcut="node-description">Domains &amp; Hosting &amp; VPS</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+		<div class="node-subNodeMenu">
+			<a class="menuTrigger" data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+				<span>Chuyên mục con</span>
+				<i class="fa--xf far fa-folder uix_icon uix_icon--folder" aria-hidden="true"></i>
+			</a>
+			<div class="menu" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<h4 class="menu-header">Chuyên mục con</h4>
+					<ol class="subNodeMenu">
+					
+						
+	
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/dich-vu.13/" class="subNodeLink subNodeLink--forum ">Dịch Vụ</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/gioi-thieu.14/" class="subNodeLink subNodeLink--forum ">Giới Thiệu</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/tro-giup.15/" class="subNodeLink subNodeLink--forum ">Trợ Giúp</a>
+		
+	
+
+	</li>
+
+	
+
+	
+
+					
+					</ol>
+				</div>
+			</div>
+		</div>
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id49 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tro-giup.49/" data-xf-init="" data-shortcut="node-description">Trợ Giúp</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category16 ">
+		<span class="u-anchorTarget" id="lap-trinh-developer.16"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#lap-trinh-developer.16" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Lập Trình | Developer</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id17 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/kien-thuc-back-end.17/" data-xf-init="" data-shortcut="node-description">Kiến Thức Back - End</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>4</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>4</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>4</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>4</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/huong-dan-code-download-anh-tu-youtube.35/post-36" class="node-extra-title" title="Hướng Dẫn Code Download Ảnh Từ Youtube">Hướng Dẫn Code Download Ảnh Từ Youtube</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-29T22:42:55+0700" data-time="1588174975" data-date-string="29 Tháng tư 2020" data-time-string="10:42 PM" title="29 Tháng tư 2020 lúc 10:42 PM">Thứ tư lúc 10:42 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">NTThanhz</span></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id18 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/kien-thuc-font-end.18/" data-xf-init="" data-shortcut="node-description">Kiến Thức Font - End</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>2</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>2</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>2</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>2</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/niemstyle.32/" class="avatar avatar--xs" data-user-id="32" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/32.jpg?1588263398" srcset="/data/avatars/m/0/32.jpg?1588263398 2x" alt="Niemstyle" class="avatar-u32-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/chia-se-20-link-hay-ve-plugin-front-end-chu-yeu-thien-ve-ui.69/post-100" class="node-extra-title" title="Chia sẻ 20 link hay về plugin Front End (Chủ yếu thiên về UI)">Chia sẻ 20 link hay về plugin Front End (Chủ yếu thiên về UI)</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-30T23:56:33+0700" data-time="1588265793" data-date-string="30 Tháng tư 2020" data-time-string="11:56 PM" title="30 Tháng tư 2020 lúc 11:56 PM">Thứ năm lúc 11:56 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/niemstyle.32/" class="username " dir="auto" data-user-id="32" data-xf-init="member-tooltip">Niemstyle</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id19 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tai-nguyen-lap-trinh-source-code.19/" data-xf-init="" data-shortcut="node-description">Tài Nguyên Lập Trình - Source Code</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>35</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>61</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+		<div class="node-subNodeMenu">
+			<a class="menuTrigger" data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+				<span>Chuyên mục con</span>
+				<i class="fa--xf far fa-folder uix_icon uix_icon--folder" aria-hidden="true"></i>
+			</a>
+			<div class="menu" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<h4 class="menu-header">Chuyên mục con</h4>
+					<ol class="subNodeMenu">
+					
+						
+	
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/template-html.41/" class="subNodeLink subNodeLink--forum subNodeLink--unread">Template - HTML</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/wordpress.42/" class="subNodeLink subNodeLink--forum ">WordPress</a>
+		
+	
+		<ol>
+		
+			
+	
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/theme.44/" class="subNodeLink subNodeLink--forum ">Theme</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/plugins.45/" class="subNodeLink subNodeLink--forum ">Plugins</a>
+		
+	
+
+	</li>
+
+	
+
+	
+
+		
+		</ol>
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/xenforo.43/" class="subNodeLink subNodeLink--forum ">Xenforo</a>
+		
+	
+		<ol>
+		
+			
+	
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/styles.46/" class="subNodeLink subNodeLink--forum ">Styles</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/addons.47/" class="subNodeLink subNodeLink--forum ">Addons</a>
+		
+	
+
+	</li>
+
+	
+
+	
+
+		
+		</ol>
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/blogspot.51/" class="subNodeLink subNodeLink--forum ">Blogspot</a>
+		
+	
+
+	</li>
+
+	
+
+	
+
+					
+					</ol>
+				</div>
+			</div>
+		</div>
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>35</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>61</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/share-api-get-video-tiktok-khong-logo.76/post-151" class="node-extra-title" title="Share API get video Tiktok không logo">Share API get video Tiktok không logo</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-05-01T23:47:16+0700" data-time="1588351636" data-date-string="1 Tháng năm 2020" data-time-string="11:47 PM" title="1 Tháng năm 2020 lúc 11:47 PM">13 phút trước</time></li>
+									
+										<li class="node-extra-user"><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">NTThanhz</span></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id48 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tro-giup.48/" data-xf-init="" data-shortcut="node-description">Trợ Giúp</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>1</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>6</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>1</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>6</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/linhkhanhma.27/" class="avatar avatar--xs" data-user-id="27" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/27.jpg?1588251003" srcset="/data/avatars/m/0/27.jpg?1588251003 2x" alt="linhkhanhma" class="avatar-u27-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/hoi-dap.74/post-123" class="node-extra-title" title="Hỏi đáp">Hỏi đáp</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-05-01T12:41:01+0700" data-time="1588311661" data-date-string="1 Tháng năm 2020" data-time-string="12:41 PM" title="1 Tháng năm 2020 lúc 12:41 PM">Hôm qua, lúc 12:41 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/linhkhanhma.27/" class="username " dir="auto" data-user-id="27" data-xf-init="member-tooltip">linhkhanhma</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category20 ">
+		<span class="u-anchorTarget" id="phan-mem-tien-ich.20"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#phan-mem-tien-ich.20" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Phần Mềm &amp; Tiện Ích</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id21 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/phan-mem-mien-phi.21/" data-xf-init="" data-shortcut="node-description">Phần mềm miễn phí</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>8</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>8</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>8</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>8</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/knz.19/" class="avatar avatar--xs avatar--default avatar--default--dynamic" data-user-id="19" data-xf-init="member-tooltip" style="background-color: #29b6f6; color: #80d8ff">
+			<span class="avatar-u19-s">K</span> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/lulubox-app-ho-tro-mod-skin-tang-toc-cho-android.53/post-54" class="node-extra-title" title="LuluBox - App hỗ trợ mod skin, tăng tốc.. cho Android">LuluBox - App hỗ trợ mod skin, tăng tốc.. cho Android</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-30T08:14:17+0700" data-time="1588209257" data-date-string="30 Tháng tư 2020" data-time-string="8:14 AM" title="30 Tháng tư 2020 lúc 8:14 AM">Thứ năm lúc 8:14 AM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/knz.19/" class="username " dir="auto" data-user-id="19" data-xf-init="member-tooltip">Knz</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id22 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/mua-ban-phan-mem.22/" data-xf-init="" data-shortcut="node-description">Mua bán phần mềm</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>1</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>1</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>1</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>1</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/vuongprogk.4/" class="avatar avatar--xs" data-user-id="4" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/4.jpg?1588253817" srcset="/data/avatars/m/0/4.jpg?1588253817 2x" alt="vuongprogk" class="avatar-u4-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/phan-mem-ket-noi-cac-thiet-bi-surfshark.7/post-7" class="node-extra-title" title="Phần mềm kết nối các thiết bị Surfshark">Phần mềm kết nối các thiết bị Surfshark</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-29T18:09:00+0700" data-time="1588158540" data-date-string="29 Tháng tư 2020" data-time-string="6:09 PM" title="29 Tháng tư 2020 lúc 6:09 PM">Thứ tư lúc 6:09 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/vuongprogk.4/" class="username " dir="auto" data-user-id="4" data-xf-init="member-tooltip">vuongprogk</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category23 ">
+		<span class="u-anchorTarget" id="game-cheat-game.23"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#game-cheat-game.23" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Game &amp; Cheat Game</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id24 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/cheat-hack-game.24/" data-xf-init="" data-shortcut="node-description">Cheat Hack Game</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/knz.19/" class="avatar avatar--xs avatar--default avatar--default--dynamic" data-user-id="19" data-xf-init="member-tooltip" style="background-color: #29b6f6; color: #80d8ff">
+			<span class="avatar-u19-s">K</span> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/ramboat-2-mod-menu-cho-android.84/post-138" class="node-extra-title" title="Ramboat 2 Mod Menu Cho Android">Ramboat 2 Mod Menu Cho Android</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-05-01T17:50:30+0700" data-time="1588330230" data-date-string="1 Tháng năm 2020" data-time-string="5:50 PM" title="1 Tháng năm 2020 lúc 5:50 PM">Hôm qua, lúc 5:50 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/knz.19/" class="username " dir="auto" data-user-id="19" data-xf-init="member-tooltip">Knz</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id25 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/game-hay.25/" data-xf-init="" data-shortcut="node-description">Game Hay</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category26 ">
+		<span class="u-anchorTarget" id="he-dieu-hanh.26"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#he-dieu-hanh.26" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Hệ Điều Hành</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id27 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/windows.27/" data-xf-init="" data-shortcut="node-description">Windows</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/cach-copy-tap-tin-sang-google-drive-nhanh-bang-send-to.40/post-41" class="node-extra-title" title="Cách copy tập tin sang Google Drive nhanh bằng &#039;Send to&#039;">Cách copy tập tin sang Google Drive nhanh bằng &#039;Send to&#039;</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-29T23:53:06+0700" data-time="1588179186" data-date-string="29 Tháng tư 2020" data-time-string="11:53 PM" title="29 Tháng tư 2020 lúc 11:53 PM">Thứ tư lúc 11:53 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">NTThanhz</span></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id28 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/linux.28/" data-xf-init="" data-shortcut="node-description">Linux</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>3</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>3</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/spetsnaz.11/" class="avatar avatar--xs" data-user-id="11" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/11.jpg?1588173494" srcset="/data/avatars/m/0/11.jpg?1588173494 2x" alt="spetsnaz" class="avatar-u11-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/gioi-thieu-ve-he-dieu-hanh-kali-linux.36/post-37" class="node-extra-title" title="Giới thiệu về hệ điều hành Kali Linux">Giới thiệu về hệ điều hành Kali Linux</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-29T22:46:07+0700" data-time="1588175167" data-date-string="29 Tháng tư 2020" data-time-string="10:46 PM" title="29 Tháng tư 2020 lúc 10:46 PM">Thứ tư lúc 10:46 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/spetsnaz.11/" class="username " dir="auto" data-user-id="11" data-xf-init="member-tooltip">spetsnaz</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id29 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/mac-os-x.29/" data-xf-init="" data-shortcut="node-description">Mac OS X</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id30 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/android.30/" data-xf-init="" data-shortcut="node-description">Android</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id31 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/ios.31/" data-xf-init="" data-shortcut="node-description">iOS</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id50 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tro-giup.50/" data-xf-init="" data-shortcut="node-description">Trợ Giúp</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category32 ">
+		<span class="u-anchorTarget" id="graphics-editor.32"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#graphics-editor.32" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Graphics &amp; Editor</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id33 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/graphics.33/" data-xf-init="" data-shortcut="node-description">Graphics</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+		<div class="node-subNodeMenu">
+			<a class="menuTrigger" data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+				<span>Chuyên mục con</span>
+				<i class="fa--xf far fa-folder uix_icon uix_icon--folder" aria-hidden="true"></i>
+			</a>
+			<div class="menu" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<h4 class="menu-header">Chuyên mục con</h4>
+					<ol class="subNodeMenu">
+					
+						
+	
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/tai-nguyen.35/" class="subNodeLink subNodeLink--forum ">Tài Nguyên</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/kien-thuc.37/" class="subNodeLink subNodeLink--forum ">Kiến Thức</a>
+		
+	
+
+	</li>
+
+	
+
+	
+
+					
+					</ol>
+				</div>
+			</div>
+		</div>
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id34 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/editor.34/" data-xf-init="" data-shortcut="node-description">Editor</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+		<div class="node-subNodeMenu">
+			<a class="menuTrigger" data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+				<span>Chuyên mục con</span>
+				<i class="fa--xf far fa-folder uix_icon uix_icon--folder" aria-hidden="true"></i>
+			</a>
+			<div class="menu" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<h4 class="menu-header">Chuyên mục con</h4>
+					<ol class="subNodeMenu">
+					
+						
+	
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/tai-nguyen.36/" class="subNodeLink subNodeLink--forum ">Tài Nguyên</a>
+		
+	
+
+	</li>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<li>
+		<a href="/forums/kien-thuc.38/" class="subNodeLink subNodeLink--forum ">Kiến Thức</a>
+		
+	
+
+	</li>
+
+	
+
+	
+
+					
+					</ol>
+				</div>
+			</div>
+		</div>
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category39 ">
+		<span class="u-anchorTarget" id="mmo-make-money-online.39"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#mmo-make-money-online.39" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">MMO - Make Money Online</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id40 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/tong-hop-cach-kiem-tien-online.40/" data-xf-init="" data-shortcut="node-description">Tổng hợp cách kiếm tiền Online</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>1</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>1</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>1</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>1</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/niemstyle.32/" class="avatar avatar--xs" data-user-id="32" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/32.jpg?1588263398" srcset="/data/avatars/m/0/32.jpg?1588263398 2x" alt="Niemstyle" class="avatar-u32-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/5-cach-kiem-tien-truc-tuyen.67/post-91" class="node-extra-title" title="5 cách kiếm tiền trực tuyến">5 cách kiếm tiền trực tuyến</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-04-30T23:29:07+0700" data-time="1588264147" data-date-string="30 Tháng tư 2020" data-time-string="11:29 PM" title="30 Tháng tư 2020 lúc 11:29 PM">Thứ năm lúc 11:29 PM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/niemstyle.32/" class="username " dir="auto" data-user-id="32" data-xf-init="member-tooltip">Niemstyle</a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+		
+	
+	
+	
+		
+	<div class="block block--category block--category53 ">
+		<span class="u-anchorTarget" id="thu-thuat-mxh.53"></span>
+		
+		<div class="block-container">
+			
+				<h2 class="block-header js-nodeMain ">
+					
+					<div class="uix_categoryStrip-content">
+						
+						
+						
+						<a href="/#thu-thuat-mxh.53" class="uix_categoryTitle" data-xf-init="" data-shortcut="node-description">Thủ Thuật MXH</a>
+						
+					</div>
+					
+						<a class="u-ripple categoryCollapse--trigger" rel="nofollow"><i class="fa--xf far fa-chevron-up uix_icon uix_icon--chevron-up" aria-hidden="true"></i></a>
+					
+				</h2>
+			
+			<div class="uix_block-body--outer">
+				<div class="block-body">
+					
+	
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id54 node--depth2 node--forum node--unread">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/thu-thuat-facebook.54/" data-xf-init="" data-shortcut="node-description">Thủ Thuật Facebook</a>
+					<span class="uix_newIndicator">Mới</span>
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>1</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>2</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>1</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>2</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<div class="node-extra-icon">
+							
+								<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+							
+						</div>
+						<div class="uix_nodeExtra__rows">
+							<div class="node-extra-row">
+								
+									<a href="/threads/huong-dan-mo-chuc-nang-moi-cua-facebook-nhanh-nhat-3.70/post-104" class="node-extra-title" title="Hướng dẫn mở chức năng mới của facebook nhanh nhất :&lt;3">Hướng dẫn mở chức năng mới của facebook nhanh nhất :&lt;3</a>
+								
+							</div>
+							<div class="node-extra-row">
+								<ul class="listInline listInline--bullet">
+									<li><time  class="node-extra-date u-dt" dir="auto" datetime="2020-05-01T01:20:56+0700" data-time="1588270856" data-date-string="1 Tháng năm 2020" data-time-string="1:20 AM" title="1 Tháng năm 2020 lúc 1:20 AM">Hôm qua, lúc 1:20 AM</time></li>
+									
+										<li class="node-extra-user"><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">NTThanhz</span></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+		
+	
+	
+	
+		
+	
+
+	<div class="node node--id55 node--depth2 node--forum node--read">
+		<div class="node-body">
+			<span class="node-icon" aria-hidden="true"><i></i></span>
+			<div class="node-main js-nodeMain">
+				
+				
+				<h3 class="node-title">
+					<a href="/forums/thu-thuat-youtube.55/" data-xf-init="" data-shortcut="node-description">Thủ Thuật Youtube</a>
+					
+				</h3>
+				
+
+				
+					<div class="node-meta">
+						
+							<div class="node-statsMeta">
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Chủ đề</dt>
+									
+								</dl>
+								<dl class="pairs pairs--inline">
+									<dd>0</dd>
+									
+										<dt>Bài viết</dt>
+									
+								</dl>
+							</div>
+						
+
+						
+							
+	
+	
+
+						
+
+					</div>
+				
+
+				
+
+				
+			</div>
+
+			
+				<div class="node-stats">
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Chủ đề</dt>
+					</dl>
+					<dl class="pairs pairs--rows">
+						<dd>0</dd>
+						<dt>Bài viết</dt>
+					</dl>
+				</div>
+			
+
+			
+				<div class="node-extra">
+					
+						<span class="node-extra-placeholder">Không có</span>
+					
+				</div>
+			
+
+		</div>
+	</div>
+
+	
+
+
+	
+
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										
+	
+
+									</div>
+									<!-- BELOW MAIN CONTENT -->
+									
+									
+	
+
+								</div>
+
+								
+	
+		
+	
+		<div uix_component="MainSidebar" class="p-body-sidebar">
+			<div data-ocm-class="offCanvasMenu-backdrop"></div>
+			<div class="uix_sidebarInner ">
+				<div class="uix_sidebar--scroller">
+					
+					
+	
+		
+	
+
+					
+						<div class="block" data-widget-section="staffMembers" data-widget-id="6" data-widget-key="forum_overview_members_online" data-widget-definition="members_online">
+			<div class="block-container">
+				<h3 class="block-minorHeader"><a href="/members/?key=staff_members">Nhân viên trực tuyến</a></h3>
+				<ul class="block-body">
+				
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<li class="block-row">
+								<div class="contentRow">
+									<div class="contentRow-figure">
+										<a href="/members/ntthanhz.1/" class="avatar avatar--xs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160" srcset="/data/avatars/m/0/1.jpg?1588276160 2x" alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+									</div>
+									<div class="contentRow-main contentRow-main--close">
+										<a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--style3 username--staff username--moderator username--admin">NTThanhz</span></a>
+										<div class="contentRow-minor">
+											<span class="userTitle" dir="auto"><img src="/img/vang.png"></span>
+										</div>
+									</div>
+								</div>
+							</li>
+						
+					
+						
+					
+				
+				</ul>
+			</div>
+		</div>
+	
+
+
+<div class="block" data-widget-section="onlineNow" data-widget-id="6" data-widget-key="forum_overview_members_online" data-widget-definition="members_online">
+	<div class="block-container">
+		<h3 class="block-minorHeader"><a href="/online/">Thành viên trực tuyến</a></h3>
+		<div class="block-body">
+			
+				<div class="block-row block-row--minor">
+			
+
+				
+					<ul class="listInline listInline--comma">
+						<li><a href="/members/lyanhanh.157/" class="username " dir="auto" data-user-id="157" data-xf-init="member-tooltip">lyanhanh</a></li><li><a href="/members/willbeome.156/" class="username " dir="auto" data-user-id="156" data-xf-init="member-tooltip">willbeome</a></li><li><a href="/members/vuchay1st.93/" class="username " dir="auto" data-user-id="93" data-xf-init="member-tooltip">vuchay1st</a></li><li><a href="/members/minhgiakhanh.151/" class="username " dir="auto" data-user-id="151" data-xf-init="member-tooltip">minhgiakhanh</a></li><li><a href="/members/annonykid.155/" class="username " dir="auto" data-user-id="155" data-xf-init="member-tooltip">annonykid</a></li><li><a href="/members/truonghb01.129/" class="username " dir="auto" data-user-id="129" data-xf-init="member-tooltip">truonghb01</a></li><li><a href="/members/nuhuve.148/" class="username " dir="auto" data-user-id="148" data-xf-init="member-tooltip">nuhuve</a></li><li><a href="/members/henry.145/" class="username " dir="auto" data-user-id="145" data-xf-init="member-tooltip">Henry</a></li><li><a href="/members/ntthanhz.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--style3 username--staff username--moderator username--admin">NTThanhz</span></a></li><li><a href="/members/jag23xf.81/" class="username " dir="auto" data-user-id="81" data-xf-init="member-tooltip">jag23xf</a></li>
+					</ul>
+					
+				
+			</div>
+		</div>
+		<div class="block-footer">
+			<span class="block-footer-counter">Đang trực tuyến: 32 (Thành viên: 10, Khách: 22)</span>
+		</div>
+	</div>
+</div>
+
+	<div class="block" data-widget-id="7" data-widget-key="forum_overview_new_posts" data-widget-definition="new_posts">
+		<div class="block-container">
+			
+				<h3 class="block-minorHeader">
+					<a href="/whats-new/posts/?skip=1" rel="nofollow">Bài mới nhất</a>
+				</h3>
+				<ul class="block-body">
+					
+						
+							<li class="block-row">
+								
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<a href="/members/ntthanhz.1/" class="avatar avatar--xxs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160"  alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			
+				<a href="/threads/share-api-get-video-tiktok-khong-logo.76/post-151">Share API get video Tiktok không logo</a>
+			
+
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<ul class="listInline listInline--bullet">
+					<li>Mới nhất: NTThanhz</li>
+					<li><time  class="u-dt" dir="auto" datetime="2020-05-01T23:47:16+0700" data-time="1588351636" data-date-string="1 Tháng năm 2020" data-time-string="11:47 PM" title="1 Tháng năm 2020 lúc 11:47 PM">13 phút trước</time></li>
+				</ul>
+			</div>
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<a href="/forums/tai-nguyen-lap-trinh-source-code.19/">Tài Nguyên Lập Trình - Source Code</a>
+			</div>
+		</div>
+	</div>
+
+							</li>
+						
+							<li class="block-row">
+								
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<a href="/members/ntthanhz.1/" class="avatar avatar--xxs" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/1.jpg?1588276160"  alt="NTThanhz" class="avatar-u1-s" /> 
+		</a>
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			
+				<a href="/threads/share-code-up-files-len-google-drive-va-dropbox.79/post-149">Share code Up Files lên Google Drive và Dropbox</a>
+			
+
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<ul class="listInline listInline--bullet">
+					<li>Mới nhất: NTThanhz</li>
+					<li><time  class="u-dt" dir="auto" datetime="2020-05-01T23:31:42+0700" data-time="1588350702" data-date-string="1 Tháng năm 2020" data-time-string="11:31 PM" title="1 Tháng năm 2020 lúc 11:31 PM">29 phút trước</time></li>
+				</ul>
+			</div>
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<a href="/forums/tai-nguyen-lap-trinh-source-code.19/">Tài Nguyên Lập Trình - Source Code</a>
+			</div>
+		</div>
+	</div>
+
+							</li>
+						
+							<li class="block-row">
+								
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<a href="/members/khachieuktv.126/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="126" data-xf-init="member-tooltip" style="background-color: #9e9d24; color: #f4ff81">
+			<span class="avatar-u126-s">K</span> 
+		</a>
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			
+				<a href="/threads/ma-nguon-website-nghe-nhac-panel-admin-quan-tri.73/post-147">Mã nguồn website nghe nhạc + panel admin quản trị</a>
+			
+
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<ul class="listInline listInline--bullet">
+					<li>Mới nhất: khachieuktv</li>
+					<li><time  class="u-dt" dir="auto" datetime="2020-05-01T22:32:13+0700" data-time="1588347133" data-date-string="1 Tháng năm 2020" data-time-string="10:32 PM" title="1 Tháng năm 2020 lúc 10:32 PM">Hôm qua, lúc 10:32 PM</time></li>
+				</ul>
+			</div>
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<a href="/forums/tai-nguyen-lap-trinh-source-code.19/">Tài Nguyên Lập Trình - Source Code</a>
+			</div>
+		</div>
+	</div>
+
+							</li>
+						
+							<li class="block-row">
+								
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<a href="/members/khachieuktv.126/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="126" data-xf-init="member-tooltip" style="background-color: #9e9d24; color: #f4ff81">
+			<span class="avatar-u126-s">K</span> 
+		</a>
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			
+				<a href="/threads/share-code-marketing-facebook-cap-nhat-ngay-30-4.87/post-146">Share code Marketing Facebook (cập nhật ngày 30/4)</a>
+			
+
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<ul class="listInline listInline--bullet">
+					<li>Mới nhất: khachieuktv</li>
+					<li><time  class="u-dt" dir="auto" datetime="2020-05-01T22:23:34+0700" data-time="1588346614" data-date-string="1 Tháng năm 2020" data-time-string="10:23 PM" title="1 Tháng năm 2020 lúc 10:23 PM">Hôm qua, lúc 10:23 PM</time></li>
+				</ul>
+			</div>
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<a href="/forums/tai-nguyen-lap-trinh-source-code.19/">Tài Nguyên Lập Trình - Source Code</a>
+			</div>
+		</div>
+	</div>
+
+							</li>
+						
+							<li class="block-row">
+								
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<a href="/members/kitt.28/" class="avatar avatar--xxs" data-user-id="28" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/28.jpg?1588253425"  alt="Kitt" class="avatar-u28-s" /> 
+		</a>
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			
+				<a href="/threads/huong-dan-get-link-nhac-mp3-zing-vip-mien-phi.81/post-145">Hướng dẫn get link nhạc mp3 zing VIP miễn phí</a>
+			
+
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<ul class="listInline listInline--bullet">
+					<li>Mới nhất: Kitt</li>
+					<li><time  class="u-dt" dir="auto" datetime="2020-05-01T22:13:47+0700" data-time="1588346027" data-date-string="1 Tháng năm 2020" data-time-string="10:13 PM" title="1 Tháng năm 2020 lúc 10:13 PM">Hôm qua, lúc 10:13 PM</time></li>
+				</ul>
+			</div>
+			<div class="contentRow-minor contentRow-minor--hideLinks">
+				<a href="/forums/tips.7/">Tips</a>
+			</div>
+		</div>
+	</div>
+
+							</li>
+						
+					
+				</ul>
+			
+		</div>
+	</div>
+
+
+	<div class="block" data-widget-id="22" data-widget-key="xfrm_forum_overview_new_resources" data-widget-definition="xfrm_new_resources">
+		<div class="block-container">
+			
+				<h3 class="block-minorHeader">
+					<a href="/whats-new/resources/?skip=1" rel="nofollow">Latest resources</a>
+				</h3>
+				<ul class="block-body">
+					
+						<li class="block-row">
+							
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			
+				<a href="/resources/xerochat-best-multichannel-marketing-application-saas-platform.32/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/32.jpg?1588341597" alt="XeroChat - Best Multichannel Marketing Application (SaaS Platform)" /></a>
+			
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			<a href="/resources/xerochat-best-multichannel-marketing-application-saas-platform.32/">XeroChat - Best Multichannel Marketing Application (SaaS Platform)</a>
+			<div class="contentRow-lesser">nulled</div>
+			
+				<div class="contentRow-minor contentRow-minor--smaller">
+					<ul class="listInline listInline--bullet">
+						<li>NTThanhz</li>
+						<li>Updated: <time  class="u-dt" dir="auto" datetime="2020-05-01T20:59:57+0700" data-time="1588341597" data-date-string="1 Tháng năm 2020" data-time-string="8:59 PM" title="1 Tháng năm 2020 lúc 8:59 PM">Hôm qua, lúc 8:59 PM</time></li>
+					</ul>
+				</div>
+			
+		</div>
+	</div>
+
+						</li>
+					
+						<li class="block-row">
+							
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			
+				<a href="/resources/khoa-hoc-lam-chu-python-trong-4-tuan.31/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/31.jpg?1588331943" alt="Khóa học làm chủ PyThon trong 4 tuần" /></a>
+			
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			<a href="/resources/khoa-hoc-lam-chu-python-trong-4-tuan.31/">Khóa học làm chủ PyThon trong 4 tuần</a>
+			<div class="contentRow-lesser">python</div>
+			
+				<div class="contentRow-minor contentRow-minor--smaller">
+					<ul class="listInline listInline--bullet">
+						<li>NTThanhz</li>
+						<li>Updated: <time  class="u-dt" dir="auto" datetime="2020-05-01T18:19:03+0700" data-time="1588331943" data-date-string="1 Tháng năm 2020" data-time-string="6:19 PM" title="1 Tháng năm 2020 lúc 6:19 PM">Hôm qua, lúc 6:19 PM</time></li>
+					</ul>
+				</div>
+			
+		</div>
+	</div>
+
+						</li>
+					
+						<li class="block-row">
+							
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			
+				<a href="/resources/facebook-auto-reply-bulk-private-message-sender.30/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/30.jpg?1588331025" alt="Facebook Auto Reply &amp; Bulk Private Message Sender" /></a>
+			
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			<a href="/resources/facebook-auto-reply-bulk-private-message-sender.30/">Facebook Auto Reply &amp; Bulk Private Message Sender</a>
+			<div class="contentRow-lesser">nulled</div>
+			
+				<div class="contentRow-minor contentRow-minor--smaller">
+					<ul class="listInline listInline--bullet">
+						<li>NTThanhz</li>
+						<li>Updated: <time  class="u-dt" dir="auto" datetime="2020-05-01T18:03:45+0700" data-time="1588331025" data-date-string="1 Tháng năm 2020" data-time-string="6:03 PM" title="1 Tháng năm 2020 lúc 6:03 PM">Hôm qua, lúc 6:03 PM</time></li>
+					</ul>
+				</div>
+			
+		</div>
+	</div>
+
+						</li>
+					
+						<li class="block-row">
+							
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			
+				<a href="/resources/phpforum-social-forum-script.29/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/29.jpg?1588322855" alt="phpForum - Social forum script" /></a>
+			
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			<a href="/resources/phpforum-social-forum-script.29/">phpForum - Social forum script</a>
+			<div class="contentRow-lesser">nulled</div>
+			
+				<div class="contentRow-minor contentRow-minor--smaller">
+					<ul class="listInline listInline--bullet">
+						<li>NTThanhz</li>
+						<li>Updated: <time  class="u-dt" dir="auto" datetime="2020-05-01T15:47:35+0700" data-time="1588322855" data-date-string="1 Tháng năm 2020" data-time-string="3:47 PM" title="1 Tháng năm 2020 lúc 3:47 PM">Hôm qua, lúc 3:47 PM</time></li>
+					</ul>
+				</div>
+			
+		</div>
+	</div>
+
+						</li>
+					
+						<li class="block-row">
+							
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			
+				<a href="/resources/buckty-file-hosting-and-multi-cloud-service.28/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/28.jpg?1588316240" alt="Buckty - File Hosting and Multi Cloud Service" /></a>
+			
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			<a href="/resources/buckty-file-hosting-and-multi-cloud-service.28/">Buckty - File Hosting and Multi Cloud Service</a>
+			<div class="contentRow-lesser">nulled</div>
+			
+				<div class="contentRow-minor contentRow-minor--smaller">
+					<ul class="listInline listInline--bullet">
+						<li>NTThanhz</li>
+						<li>Updated: <time  class="u-dt" dir="auto" datetime="2020-05-01T13:57:20+0700" data-time="1588316240" data-date-string="1 Tháng năm 2020" data-time-string="1:57 PM" title="1 Tháng năm 2020 lúc 1:57 PM">Hôm qua, lúc 1:57 PM</time></li>
+					</ul>
+				</div>
+			
+		</div>
+	</div>
+
+						</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+
+
+	<div class="block" data-widget-id="8" data-widget-key="forum_overview_new_profile_posts" data-widget-definition="new_profile_posts">
+		<div class="block-container">
+			
+				<h3 class="block-minorHeader">
+					<a href="/whats-new/profile-posts/?skip=1" rel="nofollow">Bài mới nhất trong hồ sơ</a>
+				</h3>
+			
+			<div class="block-body js-replyNewMessageContainer">
+				
+				
+					
+						<div class="block-row">
+							
+
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<a href="/members/thanhxxliem.16/" class="avatar avatar--xxs" data-user-id="16" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/16.jpg?1588177047"  alt="thanhxxliem" class="avatar-u16-s" /> 
+		</a>
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			<div class="contentRow-lesser">
+				
+	
+		<a href="/members/thanhxxliem.16/" class="username " dir="auto" data-user-id="16" data-xf-init="member-tooltip"><span class="username--style5">thanhxxliem</span></a>
+	
+
+			</div>
+
+			
+				<div class="contentRow-faderContainer">
+					<div class="contentRow-faderContent">
+						<div class="bbWrapper">Umama</div>
+					</div>
+					<div class="contentRow-fader"></div>
+				</div>
+			
+
+			<div class="contentRow-minor">
+				<a href="/profile-posts/2/" rel="nofollow" class="u-concealed"><time  class="u-dt" dir="auto" datetime="2020-05-01T16:44:53+0700" data-time="1588326293" data-date-string="1 Tháng năm 2020" data-time-string="4:44 PM" title="1 Tháng năm 2020 lúc 4:44 PM">Hôm qua, lúc 4:44 PM</time></a>
+				<a href="/profile-posts/2/" rel="nofollow" class="contentRow-extra" data-xf-click="overlay" data-xf-init="tooltip" title="Tương tác">&#8226;&#8226;&#8226;</a>
+			</div>
+		</div>
+	</div>
+
+						</div>
+					
+				
+					
+						<div class="block-row">
+							
+
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<a href="/members/niemstyle.32/" class="avatar avatar--xxs" data-user-id="32" data-xf-init="member-tooltip">
+			<img src="/data/avatars/s/0/32.jpg?1588263398"  alt="Niemstyle" class="avatar-u32-s" /> 
+		</a>
+		</div>
+		<div class="contentRow-main contentRow-main--close">
+			<div class="contentRow-lesser">
+				
+	
+		<a href="/members/niemstyle.32/" class="username " dir="auto" data-user-id="32" data-xf-init="member-tooltip"><span class="username--style4">Niemstyle</span></a>
+	
+
+			</div>
+
+			
+				<div class="contentRow-faderContainer">
+					<div class="contentRow-faderContent">
+						<div class="bbWrapper">Hello! &lt;3</div>
+					</div>
+					<div class="contentRow-fader"></div>
+				</div>
+			
+
+			<div class="contentRow-minor">
+				<a href="/profile-posts/1/" rel="nofollow" class="u-concealed"><time  class="u-dt" dir="auto" datetime="2020-04-30T23:19:44+0700" data-time="1588263584" data-date-string="30 Tháng tư 2020" data-time-string="11:19 PM" title="30 Tháng tư 2020 lúc 11:19 PM">Thứ năm lúc 11:19 PM</time></a>
+				<a href="/profile-posts/1/" rel="nofollow" class="contentRow-extra" data-xf-click="overlay" data-xf-init="tooltip" title="Tương tác">&#8226;&#8226;&#8226;</a>
+			</div>
+		</div>
+	</div>
+
+						</div>
+					
+				
+			</div>
+			
+		</div>
+	</div>
+
+<div class="block" data-widget-id="9" data-widget-key="forum_overview_forum_statistics" data-widget-definition="forum_statistics">
+	<div class="block-container">
+		<h3 class="block-minorHeader">Thống kê diễn đàn</h3>
+		<div class="block-body block-row">
+			<dl class="pairs pairs--justified">
+				<dt>Chủ đề</dt>
+				<dd>86</dd>
+			</dl>
+
+			<dl class="pairs pairs--justified">
+				<dt>Bài viết</dt>
+				<dd>148</dd>
+			</dl>
+
+			<dl class="pairs pairs--justified">
+				<dt>Thành viên</dt>
+				<dd>154</dd>
+			</dl>
+
+			<dl class="pairs pairs--justified">
+				<dt>Thành viên mới nhất</dt>
+				<dd><a href="/members/annonykid.155/" class="username " dir="auto" data-user-id="155" data-xf-init="member-tooltip">annonykid</a></dd>
+			</dl>
+		</div>
+	</div>
+</div>
+
+	<div class="block" data-widget-id="10" data-widget-key="forum_overview_share_page" data-widget-definition="share_page">
+		<div class="block-container">
+			<h3 class="block-minorHeader">Chia sẻ trang này</h3>
+			<div class="block-body block-row" style="text-align: center;">
+				
+					
+						
+							<a data-xf-click="overlay" data-target=".uix_shareWidgetModal" class="button button--primary"><i class="fa--xf far fa-share mdi mdi-share" aria-hidden="true"></i> Share this page</a>
+							<div style="display: none">
+								<div class="uix_shareWidgetModal">
+									<div class="overlay-title">Chia sẻ</div>
+									<div class="block-container">
+										<div class="block-body">
+											<div class="block-row">
+												
+													
+	
+		
+		<div class="shareButtons shareButtons--iconic" data-xf-init="share-buttons" data-page-url="" data-page-title="" data-page-desc="">
+			
+
+			<div class="shareButtons-buttons">
+				
+
+					
+						<a class="shareButtons-button shareButtons-button--brand shareButtons-button--facebook" data-href="https://www.facebook.com/sharer.php?u={url}">
+							<i aria-hidden="true"></i>
+							<span>Facebook</span>
+						</a>
+					
+
+					
+						<a class="shareButtons-button shareButtons-button--brand shareButtons-button--twitter" data-href="https://twitter.com/intent/tweet?url={url}&amp;text={title}">
+							<i aria-hidden="true"></i>
+							<span>Twitter</span>
+						</a>
+					
+
+					
+						<a class="shareButtons-button shareButtons-button--brand shareButtons-button--reddit" data-href="https://reddit.com/submit?url={url}&amp;title={title}">
+							<i aria-hidden="true"></i>
+							<span>Reddit</span>
+						</a>
+					
+
+					
+						<a class="shareButtons-button shareButtons-button--brand shareButtons-button--pinterest" data-href="https://pinterest.com/pin/create/bookmarklet/?url={url}&amp;description={title}">
+							<i aria-hidden="true"></i>
+							<span>Pinterest</span>
+						</a>
+					
+
+					
+						<a class="shareButtons-button shareButtons-button--brand shareButtons-button--tumblr" data-href="https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&amp;title={title}">
+							<i aria-hidden="true"></i>
+							<span>Tumblr</span>
+						</a>
+					
+
+					
+						<a class="shareButtons-button shareButtons-button--brand shareButtons-button--whatsApp" data-href="https://api.whatsapp.com/send?text={title}&nbsp;{url}">
+							<i aria-hidden="true"></i>
+							<span>WhatsApp</span>
+						</a>
+					
+
+					
+						<a class="shareButtons-button shareButtons-button--email" data-href="mailto:?subject={title}&amp;body={url}">
+							<i aria-hidden="true"></i>
+							<span>Email</span>
+						</a>
+					
+
+					
+						<a class="shareButtons-button shareButtons-button--link is-hidden" data-clipboard="{url}">
+							<i aria-hidden="true"></i>
+							<span>Link</span>
+						</a>
+					
+				
+			</div>
+		</div>
+	
+
+																					
+											</div>
+										</div>
+									</div>						
+								</div>
+							</div>
+						
+					
+				
+			</div>
+		</div>
+	</div>
+					
+					
+				</div>
+			</div>
+		</div>
+	
+
+	
+
+							</div>
+							
+	
+
+						</div>
+						
+	
+		
+	
+		
+		
+	
+
+		
+	
+
+	
+
+						
+	
+
+					</div>
+				</div>
+
+				
+	
+		
+	<footer class="p-footer" id="footer">
+
+		
+			
+		
+
+		<div class="p-footer-inner">
+			<div class="pageContent">
+				<div class="p-footer-row">
+					
+						<div class="p-footer-row-main">
+							<ul class="p-footer-linkList p-footer-choosers">
+								
+									
+										<li><a id="uix_widthToggle--trigger" data-xf-init="tooltip" title="Toggle width" rel="nofollow"><i class="fa--xf far fa-compress-alt uix_icon uix_icon--collapse" aria-hidden="true"></i></a></li>
+									
+									
+										<li><a href="/misc/style" data-xf-click="overlay" data-xf-init="tooltip" title="Chọn giao diện" rel="nofollow">Sáng</a></li>
+									
+									
+										<li><a href="/misc/language" data-xf-click="overlay" data-xf-init="tooltip" title="Chọn Ngôn ngữ" rel="nofollow"><i class="fa fa-globe" aria-hidden="true"></i> Tiếng Việt</a></li>
+									
+								
+							</ul>
+						</div>
+					
+				</div>
+				<div class="p-footer-row-opposite">
+					<ul class="p-footer-linkList">
+						
+							
+								<li><a href="/misc/contact" data-xf-click="overlay">Liên hệ</a></li>
+							
+						
+
+						
+							<li><a href="/help/terms/">Quy định và Nội quy</a></li>
+						
+
+						
+							<li><a href="/help/privacy-policy/">Chính sách bảo mật</a></li>
+						
+
+						
+							<li><a href="/help/">Trợ giúp</a></li>
+						
+
+						
+							<li><a href="http://zonedark.asia/">Trang chủ</a></li>
+						
+
+						<li><a href="#top" title="Bên trên" data-xf-click="scroll-to"><i class="fa fa-arrow-up" aria-hidden="true"></i></a></li>
+
+						<li><a href="/forums/-/index.rss" target="_blank" class="p-footer-rssLink" title="RSS"><span aria-hidden="true"><i class="fa fa-rss"></i><span class="u-srOnly">RSS</span></span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="p-footer-copyrightRow">
+			<div class="pageContent">
+				<div class="uix_copyrightBlock">
+					
+						<div class="p-footer-copyright">
+							
+								<a href="https://xenforo.com" class="u-concealed" dir="ltr" target="_blank">Forum software by XenForo<sup>&reg;</sup> <span class="copyright">&copy; 2010-2020 XenForo Ltd.</span></a>
+								<span class="thBranding"><span class="thBranding__pipe"> | </span><a href="https://www.themehouse.com/?utm_source=zonedark.asia&utm_medium=xf2product&utm_campaign=product_branding" class="u-concealed" target="_BLANK" nofollow="nofollow">Style by ThemeHouse</a></span>
+								
+							
+						</div>
+					
+
+					
+				</div>
+				
+				
+	
+		
+	
+<ul class="uix_socialMedia">
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+</ul>
+
+	
+
+			</div>
+		</div>
+	</footer>
+
+	
+
+
+				
+					<div class="uix_fabBar uix_fabBar--active">
+						
+							
+								<div class="u-scrollButtons js-scrollButtons" data-trigger-type="both">
+									<a href="#top" class="button--scroll ripple-JsOnly button" data-xf-click="scroll-to"><span class="button-text"><i class="fa--xf far fa-arrow-up" aria-hidden="true"></i><span class="u-srOnly">Bên trên</span></span></a>
+									
+										<a href="#footer" class="button--scroll ripple-JsOnly button" data-xf-click="scroll-to"><span class="button-text"><i class="fa--xf far fa-arrow-down" aria-hidden="true"></i><span class="u-srOnly">Bottom</span></span></a>
+									
+								</div>
+							
+							
+								
+							
+						
+					</div>
+				
+				
+				
+			</div>
+		</div>
+
+		<div class="u-bottomFixer js-bottomFixTarget">
+			
+			
+				
+	
+		
+		
+		
+
+		<ul class="notices notices--bottom_fixer  js-notices"
+			data-xf-init="notices"
+			data-type="bottom_fixer"
+			data-scroll-interval="6">
+
+			
+				
+	<li class="notice js-notice notice--primary notice--cookie"
+		data-notice-id="-1"
+		data-delay-duration="0"
+		data-display-duration="0"
+		data-auto-dismiss="0"
+		data-visibility="">
+		
+		<div class="uix_noticeInner">
+			
+			<div class="uix_noticeIcon">
+				
+					<i class="fa--xf far fa-info-circle mdi mdi-information" aria-hidden="true"></i>
+				
+			</div>
+
+			
+			<div class="notice-content">
+				
+				<div class="">
+	Trang web này sử dụng cookie để giúp cá nhân hóa nội dung, điều chỉnh trải nghiệm của bạn và để giữ cho bạn đăng nhập nếu bạn đăng ký.<br />
+Bằng cách tiếp tục sử dụng trang web này, bạn đồng ý với việc sử dụng cookie của chúng tôi.
+</div>
+
+<div class="u-inputSpacer u-alignCenter uix_cookieButtonRow">
+	<a href="/account/dismiss-notice" class="js-noticeDismiss button--notice button button--icon button--icon--confirm"><span class="button-text">Đồng ý</span></a>
+	<a href="/help/cookies" class="button--notice button"><span class="button-text">Tìm hiểu thêm.…</span></a>
+</div>
+			</div>
+		</div>
+	</li>
+
+			
+		</ul>
+	
+
+			
+		</div>
+
+		<script>
+	if (typeof (window.themehouse) !== 'object') {
+		window.themehouse = {};
+	}
+	if (typeof (window.themehouse.settings) !== 'object') {
+		window.themehouse.settings = {};
+	}
+	window.themehouse.settings = {
+		common: {
+			'20180112': {
+				init: false,
+			},
+		},
+		data: {
+			version: '2.1.8.1.0',
+			jsVersion: 'No JS Files',
+			templateVersion: '2.1.2.0_Release',
+			betaMode: 0,
+			theme: '',
+			url: 'http://zonedark.asia/',
+			user: '0',
+		},
+		inputSync: {},
+		minimalSearch: {
+			breakpoint: "10000",
+			dropdownBreakpoint: "10000",
+		},
+		sidebar: {
+            enabled: '1',
+			link: '/uix/toggle-sidebar.json?t=1588352444%2C699bf6328527a5e7722bd1506ca38a9d',
+            state: '',
+		},
+        sidebarNav: {
+            enabled: '',
+			link: '/uix/toggle-sidebar-navigation.json?t=1588352444%2C699bf6328527a5e7722bd1506ca38a9d',
+            state: '',
+		},
+		fab: {
+			enabled: 1,
+		},
+		checkRadius: {
+			enabled: 0,
+			selectors: '.p-footer-inner, .uix_extendedFooter, .p-nav, .p-sectionLinks, .p-staffBar, .p-header, #wpadminbar',
+		},
+		nodes: {
+			enabled: 0,
+		},
+        nodesCollapse: {
+            enabled: '1',
+			link: '/uix/toggle-category.json?t=1588352444%2C699bf6328527a5e7722bd1506ca38a9d',
+			state: '',
+        },
+		widthToggle: {
+			enabled: '1',
+			link: '/uix/toggle-width.json?t=1588352444%2C699bf6328527a5e7722bd1506ca38a9d',
+			state: 'fixed',
+		},
+	}
+
+	window.document.addEventListener('DOMContentLoaded', function() {
+		
+			try {
+			   window.themehouse.common['20180112'].init();
+			} catch(e) {
+			   console.log('Error caught', e);
+			}
+		
+
+
+		var jsVersionPrefix = 'No JS Files';
+		if (typeof(window.themehouse.settings.data.jsVersion) === 'string') {
+			var jsVersionSplit = window.themehouse.settings.data.jsVersion.split('_');
+			if (jsVersionSplit.length) {
+				jsVersionPrefix = jsVersionSplit[0];
+			}
+		}
+		var templateVersionPrefix = 'No JS Template Version';
+		if (typeof(window.themehouse.settings.data.templateVersion) === 'string') {
+			var templateVersionSplit = window.themehouse.settings.data.templateVersion.split('_');
+			if (templateVersionSplit.length) {
+				templateVersionPrefix = templateVersionSplit[0];
+			}
+		}
+		if (jsVersionPrefix !== templateVersionPrefix) {
+			var splitFileVersion = jsVersionPrefix.split('.');
+			var splitTemplateVersion = templateVersionPrefix.split('.');
+			console.log('version mismatch', jsVersionPrefix, templateVersionPrefix);
+		}
+
+	});
+</script>
+
+		
+	<script src="/js/vendor/jquery/jquery-3.4.1.min.js?_v=5742074c"></script>
+	<script src="/js/vendor/vendor-compiled.js?_v=5742074c"></script>
+	<script src="/js/xf/core-compiled.js?_v=5742074c"></script>
+	<script src="/js/br/brms/modern-statistic.min.js?_v=5742074c"></script>
+<script src="/js/xf/notice.min.js?_v=5742074c"></script>
+<script src="/js/themehouse/xenith/ripple.min.js?_v=5742074c"></script>
+<script src="/js/themehouse/global/20180112.min.js?_v=5742074c"></script>
+<script src="/js/themehouse/xenith/index.min.js?_v=5742074c"></script>
+<script src="/js/themehouse/xenith/vendor/parallax/parallax.min.js?_v=5742074c"></script>
+<script src="/js/themehouse/xenith/vendor/hover-intent/jquery.hoverIntent.min.js?_v=5742074c"></script>
+<script>
+
+	$(".uix_sidebarInner .uix_sidebar--scroller").stick_in_parent({
+		parent: '.p-body-main',
+	});
+
+	$(".p-body-sideNavInner .uix_sidebar--scroller").stick_in_parent({
+		parent: '.p-body-main',
+	});
+
+	
+		$(document).ready(function() {
+			window.setTimeout(function() {
+				themehouse.common[20180112].resizeFire()
+			}, 100);
+		})
+	
+
+</script>
+<script>
+
+	// detect android device. Added to fix the dark pixel bug https://github.com/Audentio/xf2theme-issues/issues/1055
+	
+	$(document).ready(function() {
+		var ua = navigator.userAgent.toLowerCase();
+		var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+	
+		if(isAndroid) {
+			$('html').addClass('device--isAndroid');
+		}	
+	})
+
+</script>
+<script>
+
+		$(document).ready(function() {
+			var sidebar = $('.p-body-sidebar');
+			var backdrop = $('.p-body-sidebar [data-ocm-class="offCanvasMenu-backdrop"]');
+
+			$('.uix_sidebarCanvasTrigger').click(function(e) {
+				e.preventDefault();
+				sidebar.addClass('offCanvasMenu offCanvasMenu--blocks is-active is-transitioning');
+				$('body').addClass('sideNav--open');
+
+				window.setTimeout(function() {
+					sidebar.removeClass('is-transitioning');
+				}, 250);
+
+				$('.uix_sidebarInner').addClass('offCanvasMenu-content');
+				backdrop.addClass('offCanvasMenu-backdrop');
+				$('body').addClass('is-modalOpen');
+			});
+
+			backdrop.click(function() {
+				sidebar.addClass('is-transitioning');
+				sidebar.removeClass('is-active');
+
+				window.setTimeout(function() {
+					sidebar.removeClass('offCanvasMenu offCanvasMenu--blocks is-transitioning');
+					$('.uix_sidebarInner').removeClass('offCanvasMenu-content');
+					backdrop.removeClass('offCanvasMenu-backdrop');
+					$('body').removeClass('is-modalOpen');
+				}, 250);
+			})
+		});
+	
+</script>
+<script>
+
+	/****** OFF CANVAS ***/
+	$(document).ready(function() {
+		var panels = {
+			navigation: {
+				position: 1
+			},
+			account: {
+				position: 2
+			},
+			inbox: {
+				position: 3
+			},
+			alerts: {
+				position: 4
+			}
+		};
+
+
+		var tabsContainer = $('.sidePanel__tabs');
+
+		var activeTab = 'navigation';
+
+		var activeTabPosition = panels[activeTab].position;
+
+		var generateDirections = function() {
+			$('.sidePanel__tabPanel').each(function() {
+				var tabPosition = $(this).attr('data-content');
+				var activeTabPosition = panels[activeTab].position;
+
+				if (tabPosition != activeTab) {
+					if (panels[tabPosition].position < activeTabPosition) {
+						$(this).addClass('is-left');
+					}
+
+					if (panels[tabPosition].position > activeTabPosition) {
+						$(this).addClass('is-right');
+					}
+				}
+			});
+		};
+
+		generateDirections();
+
+		$('.sidePanel__tab').click(function() {
+			$(tabsContainer).find('.sidePanel__tab').removeClass('sidePanel__tab--active');
+			$(this).addClass('sidePanel__tab--active');
+
+			activeTab = $(this).attr('data-attr');
+
+			$('.sidePanel__tabPanel').removeClass('is-active');
+
+			$('.sidePanel__tabPanel[data-content="' + activeTab + '"]').addClass('is-active');
+			$('.sidePanel__tabPanel').removeClass('is-left').removeClass('is-right');
+			generateDirections();
+		});
+	});
+
+	/******** extra info post toggle ***********/
+
+	$(document).ready(function() {
+		XF.thThreadsUserExtraTrigger = XF.Click.newHandler({
+			eventNameSpace: 'XFthThreadsUserExtraTrigger',
+
+			init: function(e) {},
+
+			click: function(e)
+			{
+				var parent =  this.$target.parents('.message-user');
+				var triggerContainer = this.$target.parent('.thThreads__userExtra--toggle');
+				var container = triggerContainer.siblings('.thThreads__message-userExtras');
+				var child = container.find('.message-userExtras');
+				var eleHeight = child.height();
+				if (parent.hasClass('userExtra--expand')) {
+					container.css({ height: eleHeight });
+					parent.toggleClass('userExtra--expand');
+					window.setTimeout(function() {
+						container.css({ height: '0' });
+						window.setTimeout(function() {
+							container.css({ height: '' });
+						}, 200);
+					}, 17);
+
+				} else {
+					container.css({ height: eleHeight });
+					window.setTimeout(function() {
+						parent.toggleClass('userExtra--expand');
+						container.css({ height: '' });
+					}, 200);
+				}
+			}
+		});
+
+		XF.Click.register('ththreads-userextra-trigger', 'XF.thThreadsUserExtraTrigger');
+	});
+
+	/******** Backstretch images ***********/
+
+	$(document).ready(function() {
+		if ( 0 ) {
+
+			$("body").addClass('uix__hasBackstretch');
+
+			 $("body").backstretch([
+				 "/styles/xenith/images/bg/1.jpg","/styles/xenith/images/bg/2.jpg","/styles/xenith/images/bg/3.jpg"
+		  ], {
+				duration: 4000,
+				fade: 500
+			});
+
+			$("body").css("zIndex","");
+		}
+	});
+
+	// sidenav canvas blur fix
+
+	$(document).ready(function(){
+		$('.p-body-sideNavTrigger .button').click(function(){
+			$('body').addClass('sideNav--open');
+		});
+	})
+
+	$(document).ready(function(){
+		$("[data-ocm-class='offCanvasMenu-backdrop']").click(function(){
+			$('body').removeClass('sideNav--open');
+		});
+	})
+
+	$(document).on('editor:start', function (m, ed) {
+		if (typeof (m) !== 'undefined' && typeof (m.target) !== 'undefined') {
+			var ele = $(m.target);
+			if (ele.hasClass('js-editor')) {
+				var wrapper = ele.closest('.message-editorWrapper');
+				if (wrapper.length) {
+					window.setTimeout(function() {
+						var innerEle = wrapper.find('.fr-element');
+						if (innerEle.length) {
+							innerEle.focus(function (e) {
+								$('html').addClass('uix_editor--focused')
+							});
+							innerEle.blur(function (e) {
+								$('html').removeClass('uix_editor--focused')
+							});
+						}
+					}, 0);
+				}
+			}
+		}
+	});
+
+	// off canvas menu closer keyboard shortcut
+	$(document).ready(function() {
+		$(document.body).onPassive('keyup', function(e) {
+			switch (e.key) {
+				case 'Escape':
+					$('.offCanvasMenu.is-active .offCanvasMenu-backdrop').click();
+					return;
+			}
+		});
+	});
+
+</script>
+<script>
+
+		var parallaxSelector = ".uix_headerContainer"
+		var parallaxImage = "/styles/xenith/xenith/bg.jpg"
+		var parallaxPosition = "top"
+		$(parallaxSelector).parallax({imageSrc: parallaxImage, positionY: parallaxPosition});
+	
+</script>
+<script>
+
+	$(document).ready(function() {
+		var uixMegaHovered = false;
+		$('.uix-navEl--hasMegaMenu').hoverIntent({
+			over: function() {
+				if (uixMegaHovered) {
+					menu = $(this).attr('data-nav-id');
+
+					$('.p-nav').addClass('uix_showMegaMenu');
+
+					$('.uix_megaMenu__content').removeClass('uix_megaMenu__content--active');
+
+					$('.uix_megaMenu__content--' + menu).addClass('uix_megaMenu__content--active');
+				}
+			},
+			timeout: 200,
+		});
+
+		$('.p-nav').mouseenter(function() {
+			uixMegaHovered = true;
+		});
+
+		$('.p-nav').mouseleave(function() {
+			$(this).removeClass('uix_showMegaMenu');
+			uixMegaHovered = false;
+		});
+	});
+
+</script>
+<script>
+
+		/******** signature collapse toggle ***********/
+	$(window).on('load', function() {
+		window.setTimeout(function() {
+			var maxHeight = 100;
+
+			/*** check if expandable ***/
+			var eles = [];
+	
+			$('.message-signature').each(function() {
+				var height = $(this).height();
+				if (height > maxHeight) {
+					eles.push($(this));
+				}
+			});
+	
+			for (var i = 0; i < eles.length; i++) {
+				eles[i].addClass('message-signature--expandable');
+			};
+
+			/**** expand function ***/
+			var expand = function(container, canClose) {
+				var inner = container.find('.bbWrapper');
+				var eleHeight = inner.height();
+				var isExpanded = container.hasClass('message-signature--expanded');
+
+				if (isExpanded) {
+					if (canClose) {
+						container.css({ height: eleHeight });
+						container.removeClass('message-signature--expanded');
+						window.setTimeout(function() {
+							container.css({ height: maxHeight });
+							window.setTimeout(function() {
+								container.css({ height: '' });
+							}, 200);
+						}, 17);					
+					}
+
+				} else {
+					container.css({ height: eleHeight });
+					window.setTimeout(function() {
+						container.addClass('message-signature--expanded');
+						container.css({ height: '' });
+					}, 200);
+				}
+			}
+
+			/*** handle hover ***/
+			
+
+			/*** handle click ***/
+			$('.uix_signatureExpand').click(function() {
+				var container =  $(this).parent('.message-signature');
+				expand(container, true);
+			});
+		}, 0);
+	});
+
+</script>
+<script>
+
+	document.addEventListener("DOMContentLoaded", function() {
+  var lazyloadImages;    
+
+  if ("IntersectionObserver" in window) {
+    lazyloadImages = document.querySelectorAll(".lazy");
+    var imageObserver = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          var image = entry.target;
+          image.src = image.dataset.src;
+          image.classList.remove("lazy");
+          imageObserver.unobserve(image);
+        }
+      });
+    });
+
+    lazyloadImages.forEach(function(image) {
+      imageObserver.observe(image);
+    });
+  } else {  
+    var lazyloadThrottleTimeout;
+    lazyloadImages = document.querySelectorAll(".lazy");
+    
+    function lazyload () {
+      if(lazyloadThrottleTimeout) {
+        clearTimeout(lazyloadThrottleTimeout);
+      }    
+
+      lazyloadThrottleTimeout = setTimeout(function() {
+        var scrollTop = window.pageYOffset;
+        lazyloadImages.forEach(function(img) {
+            if(img.offsetTop < (window.innerHeight + scrollTop)) {
+              img.src = img.dataset.src;
+              img.classList.remove('lazy');
+            }
+        });
+        if(lazyloadImages.length == 0) { 
+          document.removeEventListener("scroll", lazyload);
+          window.removeEventListener("resize", lazyload);
+          window.removeEventListener("orientationChange", lazyload);
+        }
+      }, 20);
+    }
+
+    document.addEventListener("scroll", lazyload);
+    window.addEventListener("resize", lazyload);
+    window.addEventListener("orientationChange", lazyload);
+  }
+})
+
+</script>
+<script>jQuery.extend(XF.phrases, {
+		brms_category:       "Category",
+		brms_download:       "Download",
+		brms_update:         "Update",
+		brms_review:         "Review",
+		brms_rating: "Rating",
+		brms_forum:          "Diễn đàn",
+		brms_views:          "Xem",
+		brms_replies:        "Trả lời",
+		brms_likes:          "Thích",
+});
+</script>
+	
+	
+
+
+
+
+<script src="/js/themehouse/xenith/defer.min.js?_v=5742074c" defer></script>
+
+
+	
+<script src="/js/themehouse/xenith/deferFab.min.js?_v=5742074c" defer></script>
+
+
+	
+<script src="/js/themehouse/xenith/deferNodesCollapse.min.js?_v=5742074c" defer></script>
+
+
+	
+<script src="/js/themehouse/xenith/deferWidthToggle.min.js?_v=5742074c" defer></script>
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+	
+		
+	
+	
+	
+	<script>
+		jQuery.extend(true, XF.config, {
+			// 
+			userId: 0,
+			enablePush: false,
+			pushAppServerKey: '',
+			url: {
+				fullBase: 'http://zonedark.asia/',
+				basePath: '/',
+				css: '/css.php?css=__SENTINEL__&s=3&l=2&d=1588322745',
+				keepAlive: '/login/keep-alive'
+			},
+			cookie: {
+				path: '/',
+				domain: '',
+				prefix: 'xf_',
+				secure: false
+			},
+			csrf: '1588352444,699bf6328527a5e7722bd1506ca38a9d',
+			js: {"\/js\/br\/brms\/modern-statistic.min.js?_v=5742074c":true,"\/js\/xf\/notice.min.js?_v=5742074c":true,"\/js\/themehouse\/xenith\/ripple.min.js?_v=5742074c":true,"\/js\/themehouse\/global\/20180112.min.js?_v=5742074c":true,"\/js\/themehouse\/xenith\/index.min.js?_v=5742074c":true,"\/js\/themehouse\/xenith\/vendor\/parallax\/parallax.min.js?_v=5742074c":true,"\/js\/themehouse\/xenith\/vendor\/hover-intent\/jquery.hoverIntent.min.js?_v=5742074c":true},
+			css: {"public:brms_modern_statistic.less":true,"public:node_list.less":true,"public:notices.less":true,"public:share_controls.less":true,"public:uix_socialMedia.less":true,"public:uix_welcomeSection.less":true,"public:extra.less":true},
+			time: {
+				now: 1588352444,
+				today: 1588352400,
+				todayDow: 6,
+				tomorrow: 1588438800,
+				yesterday: 1588266000,
+				week: 1587834000
+			},
+			borderSizeFeature: '2px',
+			fontAwesomeWeight: 'r',
+			enableRtnProtect: true,
+			enableFormSubmitSticky: true,
+			uploadMaxFilesize: 41943040,
+			allowedVideoExtensions: ["m4v","mov","mp4","mp4v","mpeg","mpg","ogv","webm"],
+			shortcodeToEmoji: true,
+			visitorCounts: {
+				conversations_unread: '0',
+				alerts_unread: '0',
+				total_unread: '0',
+				title_count: true,
+				icon_indicator: true
+			},
+			jsState: {},
+			publicMetadataLogoUrl: '',
+			publicPushBadgeUrl: 'http://zonedark.asia/styles/default/xenforo/bell.png'
+		});
+
+		jQuery.extend(XF.phrases, {
+			// 
+			date_x_at_time_y: "{date} lúc {time}",
+			day_x_at_time_y:  "{day} lúc {time}",
+			yesterday_at_x:   "Hôm qua, lúc {time}",
+			x_minutes_ago:    "{minutes} phút trước",
+			one_minute_ago:   "1 phút trước",
+			a_moment_ago:     "Vài giây trước",
+			today_at_x:       "Hôm nay lúc {time}",
+			in_a_moment:      "Trong chốc lát",
+			in_a_minute:      "In a minute",
+			in_x_minutes:     "In {minutes} minutes",
+			later_today_at_x: "Cuối ngày hôm nay lúc {time}",
+			tomorrow_at_x:    "Ngày mai lúc {time}",
+
+			day0: "Chủ nhật",
+			day1: "Thứ hai",
+			day2: "Thứ ba",
+			day3: "Thứ tư",
+			day4: "Thứ năm",
+			day5: "Thứ sáu",
+			day6: "Thứ bảy",
+
+			dayShort0: "CN",
+			dayShort1: "T2",
+			dayShort2: "T3",
+			dayShort3: "T4",
+			dayShort4: "T5",
+			dayShort5: "T6",
+			dayShort6: "T7",
+
+			month0: "Tháng một",
+			month1: "Tháng hai",
+			month2: "Tháng ba",
+			month3: "Tháng tư",
+			month4: "Tháng năm",
+			month5: "Tháng sáu",
+			month6: "Tháng bảy",
+			month7: "Tháng tám",
+			month8: "Tháng chín",
+			month9: "Tháng mười",
+			month10: "Tháng mười một",
+			month11: "Tháng mười hai",
+
+			active_user_changed_reload_page: "The active user has changed. Reload the page for the latest version.",
+			server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+			oops_we_ran_into_some_problems: "OMG! Có rắc rối rồi.",
+			oops_we_ran_into_some_problems_more_details_console: "OMG! Có rắc rối rồi. Vui lòng thử lại. Chi tiết lỗi có thể hiển thị trong bảng điều khiển của trình duyệt.",
+			file_too_large_to_upload: "The file is too large to be uploaded.",
+			uploaded_file_is_too_large_for_server_to_process: "The uploaded file is too large for the server to process.",
+			files_being_uploaded_are_you_sure: "Files are still being uploaded. Are you sure you want to submit this form?",
+			attach: "Đính kèm tập tin",
+			rich_text_box: "Rich text box",
+			close: "Đóng",
+			link_copied_to_clipboard: "Liên kết đã được sao chép.",
+			text_copied_to_clipboard: "Text copied to clipboard.",
+			loading: "Đang tải…",
+
+			processing: "Processing",
+			'processing...': "Processing…",
+
+			showing_x_of_y_items: "Showing {count} of {total} items",
+			showing_all_items: "Showing all items",
+			no_items_to_display: "No items to display",
+
+			push_enable_notification_title: "Chức năng gửi thông báo đã được bật trên trang ZONE DARK ASIA | Diễn Đàn CNTT VN",
+			push_enable_notification_body: "Cám ơn bạn đã đăng ký nhận thông báo!"
+		});
+	</script>
+
+	<form style="display:none" hidden="hidden">
+		<input type="text" name="_xfClientLoadTime" value="" id="_xfClientLoadTime" title="_xfClientLoadTime" tabindex="-1" />
+	</form>
+
+	
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"url": "http://zonedark.asia/",
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "http://zonedark.asia/search/search?keywords={search_keywords}",
+				"query-input": "required name=search_keywords"
+			}
+		}
+		</script>
+	
+
+		
+		
+			<script type="text/template" id="xfReactTooltipTemplate">
+			<div class="tooltip-content-inner">
+				<div class="reactTooltip">
+					
+						<a href="#" class="reaction reaction--1" data-reaction-id="1"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Like" title="Like" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+						<a href="#" class="reaction reaction--2" data-reaction-id="2"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Love" title="Love" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+						<a href="#" class="reaction reaction--3" data-reaction-id="3"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Haha" title="Haha" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+						<a href="#" class="reaction reaction--4" data-reaction-id="4"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Wow" title="Wow" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+						<a href="#" class="reaction reaction--5" data-reaction-id="5"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Sad" title="Sad" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+						<a href="#" class="reaction reaction--6" data-reaction-id="6"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Angry" title="Angry" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+				</div>
+				</div>
+			</script>
+		
+
+		
+
+		
+
+	</body>
+</html>
+
+
+
+
+
